@@ -42,8 +42,8 @@
       "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "mlbb-tools-prod",
-          "database_id": "your-prod-d1-id"
+          "database_name": "mlbb-tools-db",
+          "database_id": "e5f3049f-1d76-4d0d-b407-4c09973a97a4"
         }
       ]
     },
@@ -55,8 +55,8 @@
       "d1_databases": [
         {
           "binding": "DB", 
-          "database_name": "mlbb-tools-staging",
-          "database_id": "your-staging-d1-id"
+          "database_name": "mlbb-tools-db",
+          "database_id": "e5f3049f-1d76-4d0d-b407-4c09973a97a4"
         }
       ]
     }
