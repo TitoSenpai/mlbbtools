@@ -1,9 +1,10 @@
 import { defineCloudflareConfig } from "@opennextjs/cloudflare";
 
 export default defineCloudflareConfig({
-  // Uncomment to enable R2 cache,
-  // It should be imported as:
-  // `import r2IncrementalCache from "@opennextjs/cloudflare/overrides/incremental-cache/r2-incremental-cache";`
-  // See https://opennext.js.org/cloudflare/caching for more details
+  // Enable R2 cache for better performance with static assets
+  // Uncomment when ready to use R2 for incremental static regeneration:
   // incrementalCache: r2IncrementalCache,
+  
+  // Note: Additional Cloudflare optimizations can be configured in wrangler.jsonc
+  // This includes KV namespaces, D1 databases, and other Cloudflare services
 });

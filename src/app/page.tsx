@@ -13,6 +13,10 @@ import {
   Sword,
   Target
 } from "lucide-react"
+import { EnhancedStatsSection } from "@/components/enhanced-stats"
+
+// Enable Partial Prerendering for this page (requires Next.js canary)
+// export const experimental_ppr = true
 
 export default function Home() {
   return (
@@ -178,6 +182,11 @@ export default function Home() {
               </p>
             </div>
           </div>
+        </div>
+
+        {/* Enhanced Stats Section - Showcasing Next.js 15 PPR & Caching */}
+        <div className="mb-16">
+          <EnhancedStatsSection />
         </div>
 
         {/* CTA Section */}

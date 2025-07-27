@@ -14,7 +14,8 @@ import {
   BarChart3,
   Calendar,
   Search,
-  Plus
+  Plus,
+  Sword
 } from "lucide-react"
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
@@ -80,6 +81,25 @@ const data = {
       url: "/dashboard",
       icon: LayoutDashboard,
       isActive: true,
+    },
+    {
+      title: "Heroes",
+      url: "/dashboard/heroes",
+      icon: Sword,
+      items: [
+        {
+          title: "All Heroes",
+          url: "/dashboard/heroes",
+        },
+        {
+          title: "Hero Stats",
+          url: "/dashboard/heroes/stats",
+        },
+        {
+          title: "Balance Changes",
+          url: "/dashboard/heroes/balance",
+        },
+      ],
     },
     {
       title: "Analytics",

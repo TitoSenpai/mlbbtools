@@ -1,18 +1,72 @@
 /**
- * For more details on how to configure Wrangler, refer to:
- * https://developers.cloudflare.com/workers/wrangler/configuration/
+ * Cloudflare Workers configuration for MLBB Tools
+ * Optimized for gaming content and global performance
+ * For more details: https://developers.cloudflare.com/workers/wrangler/configuration/
  */ {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "mlbbtools",
   "main": ".open-next/worker.js",
   "compatibility_date": "2025-04-01",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  
+  // Static assets configuration
   "assets": {
     "binding": "ASSETS",
     "directory": ".open-next/assets"
   },
+  
+  // Enhanced observability for monitoring MLBB Tools performance
   "observability": {
     "enabled": true
   },
-  "upload_source_maps": true
+  
+  // Enable source maps for better debugging
+  "upload_source_maps": true,
+  
+  // D1 Database configuration for MLBB Tools
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mlbb-tools-db",
+      "database_id": "e5f3049f-1d76-4d0d-b407-4c09973a97a4"
+    }
+  ],
+  
+  // Environment-specific configurations
+  "env": {
+    "production": {
+      "name": "mlbbtools-prod",
+      "vars": {
+        "ENVIRONMENT": "production"
+      },
+      "d1_databases": [
+        {
+          "binding": "DB",
+          "database_name": "mlbb-tools-prod",
+          "database_id": "your-prod-d1-id"
+        }
+      ]
+    },
+    "staging": {
+      "name": "mlbbtools-staging", 
+      "vars": {
+        "ENVIRONMENT": "staging"
+      },
+      "d1_databases": [
+        {
+          "binding": "DB", 
+          "database_name": "mlbb-tools-staging",
+          "database_id": "your-staging-d1-id"
+        }
+      ]
+    }
+  }
+  
+  // Future Cloudflare integrations (uncomment when needed):
+  // "kv_namespaces": [
+  //   { "binding": "SESSIONS", "id": "your-kv-namespace-id", "preview_id": "your-preview-id" }
+  // ],
+  // "r2_buckets": [
+  //   { "binding": "ASSETS_R2", "bucket_name": "mlbb-assets" }
+  // ]
 }
