@@ -1,12 +1,8 @@
-import { NextRequest, NextResponse } from 'next/server'
+import { NextResponse } from 'next/server'
 
 // Cloudflare D1 Database Interface
-interface Env {
+interface CloudflareEnv {
   DB: D1Database
-}
-
-interface CloudflareRequest extends NextRequest {
-  env?: Env
 }
 
 interface Hero {
@@ -28,13 +24,27 @@ interface Ability {
   created_at: string
 }
 
-export async function GET(request: NextRequest) {
+export async function GET() {
   try {
-    // Get Cloudflare context
-    const env = (request as CloudflareRequest).env
+    // Check if we're in Cloudflare Workers environment
+    const isCloudflareWorkers = !!process.env.CF_WORKERS_RUNTIME
+    
+    // In Next.js on Cloudflare Pages, D1 bindings are available through process.env
+    const env = process.env as unknown as CloudflareEnv
     
     if (!env?.DB) {
-      return NextResponse.json({ error: 'Database not available' }, { status: 500 })
+      return NextResponse.json(
+        { 
+          error: 'Database not available - D1 not configured',
+          environment: isCloudflareWorkers ? 'cloudflare-workers' : 'production',
+          debug: {
+            CF_WORKERS_RUNTIME: !!process.env.CF_WORKERS_RUNTIME,
+            nodeEnv: process.env.NODE_ENV,
+            hasEnvDB: !!env.DB
+          }
+        },
+        { status: 500 }
+      )
     }
 
     // Query all heroes
@@ -61,7 +71,14 @@ export async function GET(request: NextRequest) {
   } catch (error) {
     console.error('Error fetching heroes:', error)
     return NextResponse.json(
-      { error: 'Failed to fetch heroes' },
+      { 
+        error: 'Failed to fetch heroes',
+        message: error instanceof Error ? error.message : 'Unknown error',
+        debug: {
+          errorType: error instanceof Error ? error.constructor.name : typeof error,
+          stack: error instanceof Error ? error.stack : undefined
+        }
+      },
       { status: 500 }
     )
   }
