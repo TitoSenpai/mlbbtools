@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Kadita",
+    "role": "Unknown",
+    "slug": "kadita",
+    "image_url": "https://liquipedia.net/commons/images/thumb/9/9a/ML_icon_Kadita.png/20px-ML_icon_Kadita.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/9/9a/ML_icon_Kadita.png/20px-ML_icon_Kadita.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Thalassophobia",
+      "description": "ThalassophobiaAbilityHEAL Kadita gains the Blessing of the Ocean every 30s. The Blessing is triggered when she takes damage from enemy heroes and lasts 4s, allowing her to recover 65% of the HP lost within the duration afterward."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ocean Ode",
+      "description": "Ocean OdeAbilityBlink AoETypeMagic Skill/Blink Kadita summons an ocean wave to carry her in the target direction and then back (ignores terrain), dealing 250 (+90%Total Magic Power) Magic Damage to enemies along the way and slowing them by 30%. She gains Control Immunity and 50% extra Damage Reduction when inside the wave. Use Again: Kadita leaves the wave without interrupting the wave's movement. 9.080"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Breath of the Ocean",
+      "description": "Breath of the OceanAbilityAoE CCTypeMagic Skill After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing 350(+140%Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 1.5s. Kadita can cast this skill during Ocean Ode to summon an ocean wave beneath her with a shorter eruption delay. 8.090"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Rough Waves",
+      "description": "Rough WavesAbilityBurst InvincibleTypeMagic Skill Kadita dives into the ground and sends ocean waves in all directions, each dealing 270 (+60%Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. The waves then return to Kadita, each dealing 180 (+40%Total Magic Power) Magic Damage to enemies along the way. Enemies hit by multiple returning waves take less damage after the first hit. When underground, Kadita is untargetable and gains 60% extra Movement Speed. 40.0200Seas and oceans take orders from me!"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

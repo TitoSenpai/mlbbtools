@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Minsitthar",
+    "role": "Unknown",
+    "slug": "minsitthar",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/84/ML_icon_Minsitthar_2023.png/20px-ML_icon_Minsitthar_2023.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/84/ML_icon_Minsitthar_2023.png/20px-ML_icon_Minsitthar_2023.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Mark of the King",
+      "description": "Mark of the KingAbilityBUFF Minsitthar inspires the whole team. When teammates slay enemy heroes, he obtains extra 60 Gold wherever he is; whenever Minsitthar himself slay enemies, all his teammates obtain extra 15 Gold."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Spear of Glory",
+      "description": "Spear of GloryAbilityCC AoETypePhysical Skill Minsitthar stabs ahead with the Spear of Glory, dealing 175 (+180% Extra Physical Attack) Physical Damage to all enemies along the way. When pulling back the spear, he will also pull toward himself the first enemy the spear hits, dealing 150 (+80%Extra Physical Attack) Physical Damage and knocks the target back. 13.095"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Shield Assault",
+      "description": "Shield AssaultAbilityCC ShieldTypePhysical Skill Minsitthar awakens the strength of the shield and releases the power within forward. The power explodes upon hitting the first enemy unit and deals 300 (+160% Extra Physical Attack) Physical Damage to all enemies in the area. Meanwhile, he obtains 350 (+100% Total Physical Attack) Shield and increases 20% Movement Speed immediately. The first enemy will be stunned for 1s and the other enemies will be knocked back. 8.050"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "King's Calling",
+      "description": "King's CallingAbilitySummon CCTypePhysical Skill Minsitthar charges a short distance forward and calls 4 Royal Guards to form a field and fight together with him. Each attack of Royal Guards deals (+70% Total Physical Attack) Physical Damage. The Royal Guards cannot move, but they'll attack enemies in the field first. When staying in the area. Minsitthar gains 30 Physical and Magic Defense. Enemies in the field are slowed by 20% and cannot use directional Blink skills. 48.0150Where will I be?"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Paquito",
+    "role": "Unknown",
+    "slug": "paquito",
+    "image_url": "https://liquipedia.net/commons/images/thumb/9/92/ML_icon_Paquito.png/20px-ML_icon_Paquito.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/9/92/ML_icon_Paquito.png/20px-ML_icon_Paquito.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Champ Stance",
+      "description": "Champ StanceAbilityBUFF Damage After every 3 skill casts, Paquito enters the Champ Stance, gaining an enhanced skill ignoring his current cooldowns. He gains 60% extra Movement Speed that decays over 2.5s after casting the enhanced skill. Paquito's Basic Attacks only deal (+85%Total Physical Attack) Physical Damage. I had no one to depend on except myself."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Heavy Left Punch",
+      "description": "Heavy Left PunchAbilityAoE ShieldTypePhysical Skill Paquito throws a punch in the target direction, dealing 210(+50%Total Physical Attack) Physical Damage to enemies hit. He gains a 150(+110%Total Physical Attack) shield for 2.5s if an enemy hero is hit. Champ Stance: The damage is increased to 350(+100%Total Physical Attack) Physical Damage, while the shield value is increased to 120%. The regular and enhanced shields can stack. 8.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Jab",
+      "description": "JabAbilityBurst BlinkTypePhysical Skill/Blink Paquito dashes in the target direction and throws a jab, dealing 150(+165%Total Physical Attack) Physical Damage to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding with an enemy hero or creep. Champ Stance: The damage is increased to 240(+240%Total Physical Attack) Physical Damage. 8.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Knockout Strike",
+      "description": "Knockout StrikeAbilityCC BurstTypePhysical Skill/Charge Paquito launches an elbow strike in the target direction, dealing 250(+50%Total Physical Attack) Physical Damage to enemies hit and knocking them back. He then throws a haymaker, dealing 350(+100%Total Physical Attack) Physical Damage to enemies hit and slowing them by 75% for 1s, as he darts backward. Champ Stance: Instead of a haymaker, Paquito launches an uppercut after the elbow strike, dealing 400(+120%Total Physical Attack) Physical Damage to enemies hit and knocking them airborne for 0.5s. 18.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

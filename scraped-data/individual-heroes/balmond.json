@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Balmond",
+    "role": "Unknown",
+    "slug": "balmond",
+    "image_url": "https://liquipedia.net/commons/images/thumb/7/79/ML_icon_Balmond.png/20px-ML_icon_Balmond.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/7/79/ML_icon_Balmond.png/20px-ML_icon_Balmond.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Bloodthirst Ability TypeHeal Balmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Soul Lock Ability TypeMobility Slow DamagePhysical Base Cooldown: 8.0 Balmond charges in the target direction for a set distance or until he hits an enemy hero, dealing 150 (+60%Total Physical Attack) Physical Damage to enemies along the way. The enemy hero hit will be knocked back slightly and slowed by 60% for 2s."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Cyclone Sweep Ability TypeAOE Buff DamagePhysical Base Cooldown: 6.0 Balmond gains 15% Movement Speed that decays over time and spins with his axe for 3s, dealing 25 (+25%Total Physical Attack) Physical Damage per hit to nearby enemies up to 14 times. Each subsequent hit on the same enemy will deal 7.5% increased damage (up to 60%). The Physical Attack bonus portion of the damage can Crit."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Lethal Counter Ability TypeBurst DamagePhysical Base Cooldown: 34.0 Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing True Damage equal to 150 (+70% Total Physical Attack) plus 30% of the target's lost HP. This skill only deals up to 1000 damage to non-hero units."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

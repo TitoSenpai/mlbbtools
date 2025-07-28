@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Aurora",
+    "role": "Unknown",
+    "slug": "aurora",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/b5/ML_icon_Aurora_2024.png/20px-ML_icon_Aurora_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/b5/ML_icon_Aurora_2024.png/20px-ML_icon_Aurora_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Pride of Ice Ability TypeDeath Immunity Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% Max HP. This effect has a 150s cooldown.Aurora's freeze effects can also affect Turrets. Eternal Standing of the Glacier."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Hailstone Blast Ability TypeAOE Slow DamageMagic Base Cooldown: 6.0 Base Mana Cost: 55 Aurora summons an icy meteorite to strike at the target location, dealing 350 (+90%Total Magic Power) Magic Damage and slowing targets hit by 40% for 1s. Afterward, 5 hailstones fall, each dealing 40 (+10%Total Magic Power) Magic Damage. Howling Blizzard of the North."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Frosty Breeze Ability TypeAOE CC DamageMagic Base Cooldown: 13.0 Base Mana Cost: 100 Aurora blows Frosty Breeze in a fan-shaped area in the target direction, dealing 225 (+75%Total Magic Power) Magic Damage to enemies hit, and creating a frozen area at the far-end of the attack that deals a total of 225 (+75%Total Magic Power) Magic Damage to enemies in the area and freezes them for 1s. Frigid Frost in the Mountains."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Frigid Glacier Ability TypeCC AOE DamageMagic Base Cooldown: 50.0 Base Mana Cost: 150 Aurora creates a frost path in the target direction, dealing 100 (+40%Total Magic Power) Magic Damage to enemies in the path and reducing their Movement Speed by 80% for 1.2s. The frost path gradually becomes glaciers that spread until reaching their maximum size and shattering, dealing 600 (+150%Total Magic Power) Magic Damage to all enemies in the area and freezing targets for 1s. Every 100 Magic Power that Aurora has will increase the freeze duration by 0.2s. Underflow of the Frozen River."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

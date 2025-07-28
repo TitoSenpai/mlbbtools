@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Clint",
+    "role": "Unknown",
+    "slug": "clint",
+    "image_url": "https://liquipedia.net/commons/images/thumb/f/ff/ML_icon_Clint_2020_v2.png/20px-ML_icon_Clint_2020_v2.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/f/ff/ML_icon_Clint_2020_v2.png/20px-ML_icon_Clint_2020_v2.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Double Shot",
+      "description": "Double ShotAbilityBurst After each skill cast, Clint's next Basic Attack within 4s penetrates a line of enemies, dealing them 100(+120%Total Physical Attack) Physical Damage. This damage can trigger attack effects, and the part affected by Physical Attack can critically strike."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Quick Draw",
+      "description": "Quick DrawAbilityAoETypePhysical Skill Clint fires 5 bullets in quick succession in the target direction, each dealing 250(+85%Total Physical Attack) Physical Damage to the enemy hit. The bullets will spread evenly across enemies in a fan-shaped area. Enemies hit by multiple bullets will take less damage after the first bullet. 8.050"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Trapping Recoil",
+      "description": "Trapping RecoilAbilityBlink CCTypePhysical Skill/Charge Clint shoots a trap net in the target direction, slightly jumping back while dealing 140(+30%Total Physical Attack)(+150%Total Magic Power) Physical Damage to the first enemy hit and immobilizing them for 1.2s. Successfully hitting an enemy reduces the cooldown of this skill by 40%. 10.065"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Grenade Bombardment",
+      "description": "Grenade BombardmentAbilityAoE SlowTypePhysical Skill Clint launches a grenade in the target direction that explodes on the first enemy hit, dealing them 280(+100%Total Physical Attack) Physical Damage and slowing them by 25% for 1.2s. Clint gains a grenade charge every 12s (up to 5). 10.050"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

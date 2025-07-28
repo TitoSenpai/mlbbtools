@@ -1,0 +1,39 @@
+{
+  "basic_info": {
+    "name": "Alucard",
+    "role": "Unknown",
+    "slug": "alucard",
+    "image_url": "https://liquipedia.net/commons/images/thumb/f/f0/ML_icon_Alucard.png/20px-ML_icon_Alucard.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/f/f0/ML_icon_Alucard.png/20px-ML_icon_Alucard.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Pursuit Ability TypeBuff After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal (+140%Total Physical Attack) Physical Damage."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Groundsplitter Ability TypeMobility AOE DamagePhysical Base Cooldown: 9.5 Alucard rolls to the target location and slams his blade on the ground, dealing 270 (+110% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 40% for 2s."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Whirling Smash Ability TypeAOE DamagePhysical Base Cooldown: 6.0 Alucard launches a whirling slash, dealing 345 (+120%Extra Physical Attack) Physical Damage to nearby enemies."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Fission Wave Ability TypeBuff Burst DamagePhysical Base Cooldown: 40.0 Passive: Alucard permanently gains 10% Hybrid Lifesteal.Active: Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and Hybrid Defense by 10. Alucard gains 10 Hybrid Defense for each enemy hero hit, and reduces the cooldown of his other skills to 50% for 6s.Use Again: Alucard releases a shockwave in the target direction dealing 400 (+200%Extra Physical Attack) Physical Damage to enemies hit."
+    }
+  ],
+  "lore": {
+    "relationships": []
+  },
+  "patches": [],
+  "esports_stats": []
+}

@@ -35,7 +35,9 @@
     "@radix-ui/react-tabs": "^1.1.12",
     "@radix-ui/react-tooltip": "^1.2.7",
     "@types/better-sqlite3": "^7.6.13",
+    "@types/cheerio": "^0.22.35",
     "better-sqlite3": "^12.2.0",
+    "cheerio": "^1.1.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.526.0",
@@ -56,6 +58,7 @@
     "eslint": "9.27.0",
     "eslint-config-next": "15.3.3",
     "tailwindcss": "4.1.1",
+    "tsx": "^4.20.3",
     "tw-animate-css": "^1.3.6",
     "typescript": "5.8.3",
     "wrangler": "4.21.x"
@@ -75,6 +78,11 @@
     "d1:console": "wrangler d1 execute mlbb-tools-db --command",
     "lint": "next lint",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "start": "next start"
+    "start": "next start",
+    "scrape-local": "npx tsx local-scraper.ts",
+    "scrape-test": "npx tsx local-scraper.ts scrape 10 3",
+    "scrape-all": "npx tsx local-scraper.ts scrape 200 5",
+    "scrape-report": "npx tsx local-scraper.ts report",
+    "scrape-continue": "npx tsx local-scraper.ts continue"
   }
 }

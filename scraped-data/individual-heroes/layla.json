@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Layla",
+    "role": "Unknown",
+    "slug": "layla",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/d8/ML_icon_Layla_2023.png/20px-ML_icon_Layla_2023.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/d8/ML_icon_Layla_2023.png/20px-ML_icon_Layla_2023.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Malefic Gun",
+      "description": "Malefic GunAbilityBUFF Layla deals increased damage to enemies farther away from her (from 100% to 140%, reaches the maximum at 6 units). Target locked. Fire!"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Malefic Bomb",
+      "description": "Malefic BombAbilityBurst BUFFTypePhysical Skill Layla fires a Malefic Energy Bomb in the target direction, dealing 200 (+80% Total Physical Attack) Physical Damage to the first enemy hit. This damage can critically strike. Upon hitting an enemy, Layla gains extra Basic Attack range for 3s and 60% extra Movement Speed that decays over 1.2s. The duration of the Movement Speed boost is doubled if an enemy hero is hit. 6.040"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Void Projectile",
+      "description": "Void ProjectileAbilityAoE SlowTypePhysical Skill Layla fires an orb of Malefic Energy at the target enemy that explodes on hit, dealing 170 (+65% Total Physical Attack) Physical Damage to enemies in the area, slowing them by 30% for 1.2s, and marking them with a Malefic Mark. Layla's subsequent attacks will detonate the mark, dealing 100 (+35% Total Physical Attack) extra Physical Damage to enemies in the area and slowing them by 30% for 1.2s. 7.565"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Destruction Rush",
+      "description": "Destruction RushAbilityBurst BUFFTypePhysical Skill Layla fires a blast of Malefic Energy in the target direction, dealing 500 (+150% Total Physical Attack) Physical Damage to enemies in a line. Passive: The range of Layla's Void Projectile and Basic Attacks is increased by 0.6 units. Her sight range is also slightly increased each time this skill is upgraded. 37.0130"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

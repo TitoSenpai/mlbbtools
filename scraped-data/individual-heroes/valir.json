@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Valir",
+    "role": "Unknown",
+    "slug": "valir",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/8f/ML_icon_Valir.png/20px-ML_icon_Valir.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/8f/ML_icon_Valir.png/20px-ML_icon_Valir.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ashing",
+      "description": "AshingAbilityCC Damage Valir's skills apply a stack of Ablaze to enemies hit, dealing them Magic Damage equal to 0.6% of their Max HP per second for 4s. At 3 stacks, the fire detonates, dealing Magic Damage equal to 6% of the target's Max HP to the enemy and stunning them for 1s (the same target can only be stunned by Valir's skills once every 7s.)"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Burst Fireball",
+      "description": "Burst FireballAbilityAoE SlowTypeMagic Skill Valir casts a fireball in the target direction that explodes on the first enemy hit, dealing 235(+80%Total Magic Power) Magic Damage to enemies in the area and slowing them by 30% for 1s. It also ignites the ground and causes another explosion after a short delay, dealing 118(+40%Total Magic Power) Magic Damage to enemies hit. Valir stores up to 2 Burst Fireball charges and immediately gains a charge if the first enemy hit is an enemy hero, or if a minion or creep is killed by the explosion. 1.550"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Searing Torrent",
+      "description": "Searing TorrentAbilityCC AoETypeMagic Skill Valir unleashes a torrent of flames in the target direction, dealing 200(+60%Total Magic Power) Magic Damage to enemies in a cone and knocking them to the end of its path. Vengeance Flame: The torrent forms a firewall at the end of its path that lasts 4s and deals 80(+24%Total Magic Power) Magic Damage to nearby enemies per second. Enemies hit by the torrent or the firewall are slowed by 25% for 1s. 13.080"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Vengeance Flame",
+      "description": "Vengeance FlameAbilityRemove CC BUFF Valir removes all control effects on him and conjures 4 Vengeance Flames that lasts 9s. Each of his subsequent skills consumes 1 Vegeance Flame to deal 30% extra base damage. Searing Torrent also gains enhanced effects. Meanwhile, Valir gains 50% extra Movement Speed that decays over 5s. 36.0100"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

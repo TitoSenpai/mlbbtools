@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Edith",
+    "role": "Unknown",
+    "slug": "edith",
+    "image_url": "https://liquipedia.net/commons/images/thumb/0/01/ML_icon_Edith.png/20px-ML_icon_Edith.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/0/01/ML_icon_Edith.png/20px-ML_icon_Edith.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Overload Ability TypeBuff DamageMagic After each skill cast, Edith and Phylax become Overloaded for 3s, during which all Basic Attacks will trigger chain lightning, dealing extra Magic Damage equal to (+30%Total Magic Power) plus 4(+0.25*Hero Level)% of the target's Max HP to up to 4 enemies. Chain lightning damage against Minions is increased to 150%."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Phylax Edith Earth Shatter Ability TypeCC AOE DamagePhysical Base Cooldown: 5.0 After a 0.75s delay, Edith controls Phylax to launch an earth-shattering blow in a designated direction, dealing 225 (+10% Total HP) Physical Damage to enemies hit (deals 120% damage to minions) and knocking them airborne for 1s. This skill can only be interrupted by Suppression. Level-up Scaling Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.5 8.1 7.7 7.3 6.9 6.5 Base Damage 225 270 315 360 405 450 Divine Retribution Ability TypeBurst AOE DamageMagic Base Cooldown: 5.0 Edith exacts Divine Retribution on a target area, dealing 170 (+40%Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. She then continues to deal 68 (+16%Total Magic Power) Magic Damage to enemies in the area every 0.5s over the next 1.5s. Level-up Scaling Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 5.0 4.7 4.4 4.1 3.8 3.5 Base Damage 170 200 230 260 290 320 Continuous Damage 68 80 92 104 116 128"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Phylax Edith Onward Ability TypeCharge CC DamagePhysical Base Cooldown: 10.0 Edith controls Phylax to charge in the target direction, dealing 90 (+3% Total HP) Physical Damage to enemies along the way. If Phylax hits an enemy hero during the charge, it will stop immediately and throw them over its shoulder, dealing 108 (+5% Total HP) Physical Damage Level-up Scaling Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 90 100 110 120 130 140 Lightning Bolt Ability TypeCC DamageMagic Base Cooldown: 10.0 Edith fires a Lightning Bolt in a designated direction, dealing 150 (+50%Total Magic Power) Magic Damage to the first enemy hero hit and immobilizing them for 0.8s. Level-up Scaling Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 150 180 210 240 270 300"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Primal Wrath Ability TypeMorph Buff Base Cooldown: 40.0 Passive: When inside Phylax, Edith can accumulate Wrath according to the damage she receives (calculated before damage reduction). Active: Edith ejects herself forward from Phylax, knocking back nearby enemies. After that, she takes flight and can perform ranged Basic Attacks, each dealing 35 (+75% Total Physical Attack) (+25% Total Magic Power) Magic Damage. Edith also gains new skills in this state. When in flight, Edith gains 350 (+5% Total HP)-350 (+20% Total HP) extra Shield, 50%-150% extra Attack Speed and 5%-20% Hybrid Lifesteal based on the Wrath she accumulated, and converts each point of Extra Physical Defense and Extra Magic Defense into 3.5 Magic Power. The flight state lasts up to 8s."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

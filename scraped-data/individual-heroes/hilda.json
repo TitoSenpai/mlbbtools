@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Hilda",
+    "role": "Unknown",
+    "slug": "hilda",
+    "image_url": "https://liquipedia.net/commons/images/thumb/9/99/ML_icon_Hilda.png/20px-ML_icon_Hilda.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/9/99/ML_icon_Hilda.png/20px-ML_icon_Hilda.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Blessing of Wilderness",
+      "description": "Blessing of WildernessAbilityBUFF Hilda regenerates 2% of her max HP per second while in the bush. When entering the bush, she gains a shield equal to 15% of her max HP. After leaving the bush, the shield lasts for 5s. This effect has a 10s cooldown."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Combat Ritual",
+      "description": "Combat RitualAbilitySpeed Up AoETypePhysical Basic ATK Hilda activates the runic power of the great sword, increasing her Movement Speed by 60% for 3s and enhancing her next Basic Attack: It deals 200 (+100% Total Physical Attack) Physical Damage and slows the target by 40% for 3s. It also deals 120 (+60% Total Physical Attack) Physical Damage to enemies behind the target. 10.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Art of Hunting",
+      "description": "Art of HuntingAbilityDamage CCTypePhysical Skill Hilda locks onto an enemy target, each time dealing 220 (+100% Total Physical Attack) Physical Damage. Skill can be released 3 times at most. The 2nd attack will deal damage to target's surroundings, and the 3rd attack will knock back the target and surrounding enemies temporarily. 8.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Power of Wildness",
+      "description": "Power of WildnessAbilityBurst CCTypePhysical Skill Hilda launches a powerful slash on the target enemy, dealing them 600 (+250% Extra Physical Attack) Physical Damage and stunning them for 0.2s. Nearby enemies also take 60% damage. Hilda's Basic Attack and skill apply a mark on hit, each mark lasting up to 4s and allowing Power of Wildness to deal 2.5% of the target's Max HP as extra damage (up to 6 stacks). At max stacks, Power of Wildness deals 40% of the target's Max HP as extra damage and ignores 20% of their Physical Defense. 32.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

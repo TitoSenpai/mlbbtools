@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Vexana",
+    "role": "Unknown",
+    "slug": "vexana",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/de/ML_icon_Vexana_2022.png/20px-ML_icon_Vexana_2022.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/de/ML_icon_Vexana_2022.png/20px-ML_icon_Vexana_2022.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Nether Touch",
+      "description": "Nether TouchAbilityDamage Vexana and the Undead Knight inflict Nether Curse on enemies hit. The Curse lasts 5s and will cause the affected enemy to explode upon death, dealing 220~500(+60%Total Magic Power) Magic Damage to nearby enemies (base damage scales with level)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Deathly Grasp",
+      "description": "Deathly GraspAbilityCC AoE Vexana unleashes a Phantom Claw in the target direction, dealing 200(+60%Total Magic Power) Magic Damage to enemies in its path. The Claw stops upon hitting an enemy hero, terrifying them and exposing their position for 1s. Phantom Power will then erupt at their location, dealing 200(+60%Total Magic Power) Magic Damage to nearby enemies and terrifying them for 1s. 11.080"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Cursed Blast",
+      "description": "Cursed BlastAbilityAoE Vexana marks the target area with the power of the undead, slowing enemies within by 30%. After a 1s delay, a blast of Nether Energy will strike at the area, dealing 450(+200%Total Magic Power) Magic Damage to enemies hit. 9.080"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Eternal Guard",
+      "description": "Eternal GuardAbilitySummon Damage Vexana summons an Undead Knight at the target location, dealing 500(+60%Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 0.8s. The Undead Knight then joins Vexana in battle for 15s. Its each attack deals 225(+40%Total Magic Power) Magic Damage to enemies in a large area. 60.0200"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

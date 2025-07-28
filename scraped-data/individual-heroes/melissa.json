@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Melissa",
+    "role": "Unknown",
+    "slug": "melissa",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/d4/ML_icon_Melissa.png/20px-ML_icon_Melissa.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/d4/ML_icon_Melissa.png/20px-ML_icon_Melissa.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Doll Buster",
+      "description": "Doll BusterAbilityBUFF \"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?\" (Melissa deals 125% damage to minions, creeps, and summoned units.) Uh-oh, Melissa's taken apart another bunch of dolls!"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Falling!",
+      "description": "Falling!AbilityBlink BUFFTypeBlink \"Watch me slide forward and increase my Attack Speed for 3 seconds━ Ah, that was just boring...\" \"Muddles, go that way!\" \"Cuddles, come here!\" (The skill's cooldown is reduced by 1.5s each time Melissa damages the enemy by attacking Muddles.) 8.560Melissa is falling... In your dreams!"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Eyes on You!",
+      "description": "Eyes on You!AbilityDebuff AoETypePhysical Skill \"The plan's like this: Throw Muddles out to hold down the bad guys, and then... I come on stage!\" \"I puncture the bad guys, while Giggles hit Muddles to punish them as well! Hee, fantastic!\" (Muddles deals 250 (+80%Total Physical Attack) Physical Damage on the first hit and links nearby enemies for up to 6s. Linked enemies are slowed by 60% that decays over 1.5s and can break the link by moving out of the range. Muddles will return to Melissa early when there are no enemies around and immediately if she's too far away. When Muddles is present, you can tap the Attack Minion button to directly attack Muddles, though it cannot trigger the multi-hit damage.) 7.060Go, Muddles!"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Go Away!",
+      "description": "Go Away!AbilitySummon BUFFTypeMagic Skill \"Cuddles, protect me! For 4 seconds, let no bad guys come close. Unless I say otherwise!\" (When activated, the field knocks back enemies in the area and deals them 500 (+100%Total Magic Power) Magic Damage. It'll then continuously knock back enemies who attempt to enter the field, dealing them 50 (+10%Total Magic Power) Magic Damage and briefly slowing them. The field will also interrupt the enemy's movement skills unless they're immune to control effects. The field will move with Melissa once, when she's about to move out of the boundary. Passive: : Melissa's Physical & Magic Defense is increased by 3. This effect is increased to 5 times when the skill is active.) 50.0120Did you know? Hugs will give you the courage to face the darkness."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

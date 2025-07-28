@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Kimmy",
+    "role": "Unknown",
+    "slug": "kimmy",
+    "image_url": "https://liquipedia.net/commons/images/thumb/7/7d/ML_icon_Kimmy_2025.png/20px-ML_icon_Kimmy_2025.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/7/7d/ML_icon_Kimmy_2025.png/20px-ML_icon_Kimmy_2025.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Chemist's Instinct",
+      "description": "Chemist's InstinctAbilityBUFF Kimmy can move and aim in other directions when using her Spray Gun, but is often less accurate. Kimmy's Spray Gun attack restores 5 energy on hit and deals (+23%Total Physical Attack)(+25%Total Magic Power) Magic Damage (scales with level, up to 115%, but only benefits from 75% of Kimmy's Magic Lifesteal). Kimmy cannot gain extra Attack Speed and will convert every 10% Attack Speed she receives into 5 Movement Speed. Kimmy restores 15 energy each time she kills an enemy."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Energy Transformation",
+      "description": "Energy TransformationAbilityAoETypeMagic Basic ATK Hold: Kimmy continuously shoots Chemical Bolts in the target direction, each bolt consuming 5 energy and dealing 35 (+23%Total Physical Attack)(+25%Total Magic Power) Magic Damage to the enemy hit. Chemical Bolts that fail to hit an enemy will explode at the end of its path, dealing the same amount of damage to nearby enemies. The Chemical Bolts can critically strike, but only benefit from 40% of Kimmy's Spell Vamp. 0.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Chemical Refinement",
+      "description": "Chemical RefinementAbilityBlink AoETypeMagic Skill/Blink Kimmy shoots out enhanced Chemical Spray and recoils in the opposite direction. Enemies that come into contact with the Spray left on the path will take 14 (+30%Total Physical Attack)(+40%Total Magic Power) Magic Damage every 0.5s and be slowed by 40% for 4s. Kimmy also restores 30 energy upon casting this skill. 14.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Maximum Charge",
+      "description": "Maximum ChargeAbilityBurstTypeMagic Skill After a period of charging, Kimmy launches a Luminous Chemical Attack in a designated direction. The projectile will explode upon hitting an enemy or reaching the maximum range, dealing 130 (+100%Total Physical Attack)(+115%Total Magic Power)-238 (+185%Total Physical Attack)(+211%Total Magic Power) Magic Damage to the primary target (scales with charging time) and 83% damage to nearby enemies. Kimmy restores 30 energy if this skill hits an enemy. 28.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Natan",
+    "role": "Unknown",
+    "slug": "natan",
+    "image_url": "https://liquipedia.net/commons/images/thumb/c/ce/ML_icon_Natan.png/20px-ML_icon_Natan.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/c/ce/ML_icon_Natan.png/20px-ML_icon_Natan.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Theory of Everything",
+      "description": "Theory of EverythingAbilityBUFF Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an enemy with their skills (up to 6 stacks). Each stack lasts 5s and grants 7.5-15% extra Attack Speed and 7.5% extra Movement Speed. Projectiles of Natan's Basic Attacks will return to Natan after reaching the maximum range, dealing (+70%Total Physical Attack) (+30%Total Magic Power) Magic Damage to enemies in its path. Natan cannot gain Magic Penetration directly but can convert 100% of his Physical Lifesteal to Magic Lifesteal and 100% of his Physical Penetration to Magic Penetration. Time is nothing more than a descriptor of space..."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Superposition",
+      "description": "SuperpositionAbilityBurstTypeMagic Skill Natan shoots a dense mass of energy in the target direction, dealing 225 (+180%Total Physical Attack) (+120%Total Magic Power) Magic Damage to enemies in its path. 8.065There is no \"collapse\"."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Interference!",
+      "description": "Interference!AbilityCCTypeCharge Natan launches a Gravitational Attractor in the target direction, dealing 150 (+50%Total Physical Attack) (+70%Total Magic Power) Magic Damage to enemies in its path and knocking them back. The Attractor detonates upon reaching the maximum range, dealing 30 (+10%Total Physical Attack) (+14%Total Magic Power) Magic Damage to nearby enemies and knocking them back. 12.080There is only \"decoherence\"."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Entropy?",
+      "description": "Entropy?AbilitySummon BlinkTypeMagic Skill/Blink Natan summons a Reverse-Clone at the target location (6 units away) that lasts 10s, inherits 35% of his attack attributes, and copies his moves and attacks in reverse. Use Again: Natan switches places with the Reverse-Clone. Each cast reduces other skills' remaining cooldowns by 50%. The Reverse-Clone will disappear if Natan is too far away, while the cooldown of this skill will be reduced by the remaining duration 42.0100Entropy can decrease."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

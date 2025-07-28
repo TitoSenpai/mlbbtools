@@ -64,9 +64,9 @@ import {
 
 const data = {
   user: {
-    name: "Admin User",
-    email: "admin@mlbbtools.com",
-    avatar: "/avatars/admin.jpg",
+    name: "Dashboard User",
+    email: "user@mlbbtools.com",
+    avatar: "/avatars/user.jpg",
   },
   teams: [
     {
@@ -152,10 +152,7 @@ const data = {
           title: "All Users",
           url: "/dashboard/users/all",
         },
-        {
-          title: "Admins",
-          url: "/dashboard/users/admins",
-        },
+
         {
           title: "Roles",
           url: "/dashboard/users/roles",

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Irithel",
+    "role": "Unknown",
+    "slug": "irithel",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/b9/ML_icon_Irithel.png/20px-ML_icon_Irithel.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/b9/ML_icon_Irithel.png/20px-ML_icon_Irithel.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Jungle Heart",
+      "description": "Jungle HeartAbilityBUFF Irithel's movement won't be interrupted by her attacks. She shoots 2 crossbow bolts on each Basic Attack (the bolts take longer to refill), each bolt dealing (+55% Total Physical Attack) Physical Damage. Only the first bolt can trigger attack effects. After traveling 10 units, Irithel will shoot 1 extra bolt(s) on her next Basic Attack."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Strafe",
+      "description": "StrafeAbilityAoE DebuffTypePhysical Skill Irithel launches a volley of arrows on the target area, dealing 330 (+60% Total Physical Attack) Physical Damage to enemies within and reducing their Physical Defense by 15 for 3s. 10.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Force of the Queen",
+      "description": "Force of the QueenAbilitySlow AoETypePhysical Skill Leo lets out a piercing roar, dealing 200 (+60% Total Physical Attack) Physical Damage to nearby enemies and slowing them by 40% for 2s. 10.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Heavy Crossbow",
+      "description": "Heavy CrossbowAbilityBUFF BlinkTypePhysical Basic ATK/Blink Irithel orders Leo to leap in the target direction and empowers her crossbow for 15s. For the duration, she gains 30 extra Movement Speed and shoots an enhanced crossbow bolt on each Basic Attack instead, dealing 120 (+60% Total Physical Attack) Physical Damage to the target and enemies around them. The preparation time of the extra bolt from Jungle Heart is also reduced. 45.0No arrow is shot in vain."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

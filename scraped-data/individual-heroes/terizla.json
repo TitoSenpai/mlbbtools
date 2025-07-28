@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Terizla",
+    "role": "Unknown",
+    "slug": "terizla",
+    "image_url": "https://liquipedia.net/commons/images/thumb/2/2b/ML_icon_Terizla.png/20px-ML_icon_Terizla.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/2/2b/ML_icon_Terizla.png/20px-ML_icon_Terizla.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Body of Smith",
+      "description": "Body of SmithAbilityBUFF Terizla gains 1% extra Damage Reduction (up to 30%) for every 2.5% HP lost. He cannot gain extra Attack Speed and will convert every 1% extra Attack Speed he's supposed to receive into 1 extra Physical Attack."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Revenge Strike",
+      "description": "Revenge StrikeAbilityAoE Speed UpTypePhysical Skill Terizla cracks the ground with his hammer and the fissure will spread out, dealing 300(+80%Extra Physical Attack) Physical Damage. After the fissure hits the first target, it will drill into the target and slow them by 30%. At the same time, Terizla's Movement Speed will be increased by 25% for 3s. The fissure on target will then explode, dealing 300(+80%Extra Physical Attack) plus 20% of the enemy's lost HP Physical Damage. 7.075"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Execution Strike",
+      "description": "Execution StrikeAbilityBurst SlowTypePhysical Skill Terizla waves his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal 135(+125%Total Physical Attack) Physical Damage each, while the third deals 225(+300%Total Physical Attack) Physical Damage. Enemies hit will also be slowed by 20% for 1.25s (the slow effect can stack). Deals only 60% damage to minions. 9.025"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Penalty Zone",
+      "description": "Penalty ZoneAbilityCC AoETypePhysical Skill Terizla jumps to the designated area to smash down, causing 300(+100%Total Physical Attack) Physical Damage and slowing enemies by 45%. Meanwhile, he summons Scaffold, which will reach out a hook to the enemies and pull the target for several times, causing 150(+30%Total Physical Attack) Physical Damage each time. 40.0100"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

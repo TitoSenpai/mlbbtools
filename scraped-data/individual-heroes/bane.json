@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Bane",
+    "role": "Unknown",
+    "slug": "bane",
+    "image_url": "https://liquipedia.net/commons/images/thumb/5/50/ML_icon_Bane_2021.png/20px-ML_icon_Bane_2021.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/5/50/ML_icon_Bane_2021.png/20px-ML_icon_Bane_2021.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Shark Bite Ability TypeBurst Bane infuses his weapon with a stack of Tidal Energy each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal Physical Damage equal to (+95%Total Physical Attack) plus 4(+0.4*Hero Level)% of the target's Max HP to nearby enemies."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Crab Claw Cannon Ability TypeDamage DamagePhysical Base Cooldown: 8.0 Base Mana Cost: 30 Bane fires his Crab Claw Cannon in the target direction, dealing 150 (+160%Total Physical Attack) Physical Damage to the first enemy hit and then 150% damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are slowed by 10 (+10% Total Magic Power)% for 1s. Every 100 Physical Attack Bane possesses reduces this skill's cooldown by an additional 8%."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Ale Ability TypeHeal AOE DamageMagic Base Cooldown: 7.5 Base Mana Cost: 50 Bane chugs his ale, recovering 200 (+150% Total Magic Power) plus 5 (+1.5% Total Magic Power)% of his lost HP and gaining 50% extra Movement Speed that decays over 2.5s. Use Again: Bane spits venom in the target direction, dealing 250 (+180% Total Magic Power) Magic Damage (scales up to 150% with charging time) to enemies in a fan-shaped area. Every 100 Magic Power Bane possesses additionally reduces this skill's cooldown by 7%."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Deadly Catch Ability TypeBurst CC DamageMagic Base Cooldown: 40.0 Base Mana Cost: 120 Bane summons a school of sharks to charge in the target direction, dealing 600 (+100% Total Physical Attack) (+170% Total Magic Power) Magic Damage to enemies hit, knocking them airborne for 0.8s, and slowing them by 65% (decays over 3s). This skill deals 40% damage to turrets."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

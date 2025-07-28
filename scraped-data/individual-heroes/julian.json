@@ -1,0 +1,32 @@
+{
+  "basic_info": {
+    "name": "Julian",
+    "role": "Unknown",
+    "slug": "julian",
+    "image_url": "https://liquipedia.net/commons/images/thumb/e/ec/ML_icon_Julian_dd.png/20px-ML_icon_Julian_dd.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/e/ec/ML_icon_Julian_dd.png/20px-ML_icon_Julian_dd.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Smith's Legacy",
+      "description": "Smith's LegacyAbilityBUFF After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 7s cooldown and allows his Basic Attacks within the next 5s to deal 75(+100%Total Physical Attack)(+100%Total Magic Power) Magic Damage and pull the target toward him. Julian gains 15% extra Magic Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Scythe",
+      "description": "Normal Enhanced ScytheAbilityDamage SlowTypeMagic Skill Julian hurls a flying scythe in the target direction, dealing 380(+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 30% for 1s. The scythe disappears upon hitting a non-minion enemy. 7.030 Level 1 Level 2 Level 3 Level 4 Level 5 Skill Cost 30 35 40 45 50 Base Damage 380 460 540 620 700 Enhanced ScytheAbilityDamage SlowTypeMagic Skill Julian hurls enhanced scythes in the target direction, dealing 380(+140%Total Magic Power) Magic Damage to enemies along the way and slowing them by 50% for 1s. Upon hitting a non-minion enemy or reaching the maximum distance, the scythes will continue to fly at a lower speed, dealing 65(+30%Total Magic Power) Magic Damage every 0.3s to nearby enemies (up to 9 times). 7.060 Level 1 Level 2 Level 3 Level 4 Level 5 Skill Cost 60 70 80 90 100 Base Damage 380 460 540 620 700 Continuous Damage 65 95 125 155 185"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Sword",
+      "description": "Normal Enhanced SwordAbilityBlink DamageTypeBlink/Magic Skill Julian summons a flying sword and dashes in the target direction, dealing 300(+48%Total Magic Power) Magic Damage to enemies along the way. 7.030 Level 1 Level 2 Level 3 Level 4 Level 5 Skill Cost 30 35 40 45 50 Base Damage 300 330 360 390 420 Enhanced SwordAbilityBlink ConcealTypeBlink/Magic Skill Julian summons a large number of flying swords and dashes in the target direction, dealing 90(+20% Total Magic Power) Magic Damace every 0.1s to enemies along the way (up to 9 times) Julian's untargetable and invisible during the dash. 7.060 Level 1 Level 2 Level 3 Level 4 Level 5 Skill Cost 60 70 80 90 100 Continuous Damage 90 100 110 120 130"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

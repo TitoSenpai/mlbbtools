@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Esmeralda",
+    "role": "Unknown",
+    "slug": "esmeralda",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/12/ML_icon_Esmeralda.png/20px-ML_icon_Esmeralda.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/12/ML_icon_Esmeralda.png/20px-ML_icon_Esmeralda.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Starmoon Casket Ability TypeBuff Shield Esmeralda manipulates Stardust and Frostmoon: Stardust deals Physical Damage while Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. Each Basic Attack deals (+100%Total Physical Attack) Physical Damage and 100 (+75%Total Magic Power) Magic Damage. The damage dealt by Esmeralda ignores all shield effects and gradually converts her shield into HP."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Frostmoon Shield Ability TypeShield Buff DamageMagic Base Cooldown: 8.5 Base Mana Cost: 40 Esmeralda gains 400 (+150%Total Magic Power) Magic Damage Shield and 40% Movement Speed which rapidly decays over its duration for 4s. Meanwhile, she gradually transforms the shields of her nearby enemies into her own shield, capped at 50% of her Max HP."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Stardust Dance Ability TypeAOE Buff Base Cooldown: 4.5 Base Mana Cost: 35 Esmeralda waves Stardust and Frostmoon, dealing 240 (+60%Total Physical Attack) Physical Damage and 300 (+120%Total Magic Power) Magic Damage to nearby enemies. Each time she deals damage to a hero, the cooldown of Frostmoon Shield is reduced by 1.5s (damaging non-hero units grants a 0.5s reduction) and the enemy's Movement Speed is reduced by 10% for 1.5s."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Falling Starmoon Ability TypeBurst Mobility Base Cooldown: 32.0 Base Mana Cost: 150 Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Frostmoon. The longer the duration lasts, the greater the power will be. Use again: Esmeralda casts the Stardust to the designated location, dealing 350 (+90%Total Physical Attack) Physical Damage, and then she moves to the designated location to cast Frostmoon, dealing 350 (+140%Total Magic Power) Magic Damage and immobilizing enemies in the area for 1s."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

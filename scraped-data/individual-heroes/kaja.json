@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Kaja",
+    "role": "Unknown",
+    "slug": "kaja",
+    "image_url": "https://liquipedia.net/commons/images/thumb/f/fb/ML_icon_Kaja.png/20px-ML_icon_Kaja.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/f/fb/ML_icon_Kaja.png/20px-ML_icon_Kaja.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Wrath Sanction",
+      "description": "Wrath SanctionAbilityBUFF Kaja achieves Wrath Sanction every 6s. His next Basic Attack will send a lightning to enemies, dealing Magic Damage equal to 100(+100%Total Magic Power) plus 4% of targets Max HP and paralyzing them. The lightning will hit enemies nearby as well (up to 3 times). Increases damage by 200% of targets' Max HP on minions and creeps. Paralyzing: Slows enemies and reduces their damage by 8% (up to 4 stacks) for 4s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ring of Order",
+      "description": "Ring of OrderAbilityAoE SlowTypeMagic Skill Kaja releases a Ringed Electric Blade that quickly expands and contracts, dealing 135(+70%Total Magic Power) Magic Damage to enemies hit on its way out and back and paralyzing them. Each time an enemy is hit by the Electric Blade, Kaja's HP is restored by 100 (reduced to 30% after multiple hits). 6.550"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Lightning Bomb",
+      "description": "Lightning BombAbilityBlink DamageTypeMagical Skill/Blink Kaja dashes in the target direction while leaving 3 Lightning Bombs along the way. The Bombs will explode upon enemy contact, dealing 200(+80%Total Magic Power) Magic Damage to the enemies and paralyzing them. 13.065"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Divine Judgment",
+      "description": "Divine JudgmentAbilityCC BUFFTypeMagic Skill Kaja deals 300(+100%Total Magic Power) Magic Damage to a designated enemy hero, suppresses and paralyzes them for 1.5s. During the suppression, Kaja can drag the enemy hero along with him. 60.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

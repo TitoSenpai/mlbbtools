@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Lesley",
+    "role": "Unknown",
+    "slug": "lesley",
+    "image_url": "https://liquipedia.net/commons/images/thumb/a/a3/ML_icon_Lesley_2022.png/20px-ML_icon_Lesley_2022.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/a/a3/ML_icon_Lesley_2022.png/20px-ML_icon_Lesley_2022.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Lethal Shot",
+      "description": "Lethal ShotAbilityBUFF Lesley gains 5 energy each time she hits an enemy with her Basic Attack. If Lesley doesn't take damage for 5s, her next Basic Attack gains extra range, 50% extra Crit Chance, deals 1.2 times damage, and restores double the amount of energy on hit. Lethal Shot deals 20% extra damage to minions. The cooldown of Lethal Shot is reset each time Lesley casts a skill. Each point of fixed Physical Penetration Lesley acquires is converted into 1% Crit Chance (doesn't affect percentage Physical Penetration)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Master of Camouflage",
+      "description": "Master of CamouflageAbilityConceal BUFF Lesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 75 extra Physical Attack. The state lasts 3s or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings. 5.030"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Tactical Grenade",
+      "description": "Tactical GrenadeAbilityCC BlinkTypePhysical Skill/Blink Lesley throws a tactical grenade in the target direction while slightly jumping back, dealing 150 (+50%Total Physical Attack) Physical Damage to enemies in a cone and knocking them back. Lesley can cast this skill during the Ultimate Snipe to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left. 10.040"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ultimate Snipe",
+      "description": "Ultimate SnipeAbilityBurstTypePhysical Skill Lesley locks onto the target enemy hero and fires 4 Fatal Bullets in succession, each dealing Physical Damage equal to 200 (+80%Extra Physical Attack) plus 5% of their lost HP and restoring 10 energy on hit. The Bullets can be blocked by other enemy heroes. Lesley can end this skill early, and part of the skill cooldown will be refunded. 40.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

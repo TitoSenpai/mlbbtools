@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Odette",
+    "role": "Unknown",
+    "slug": "odette",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/bb/ML_icon_Odette_2021.png/20px-ML_icon_Odette_2021.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/bb/ML_icon_Odette_2021.png/20px-ML_icon_Odette_2021.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Lakeshore Ambience",
+      "description": "Lakeshore AmbienceAbilityBUFF After each skill cast, Odette's next attack or skill will cast a sound wave that bounces between her and nearby enemies, each bounce dealing 144-200 (+50% Total Magic Power) Magic Damage."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Avian Authority",
+      "description": "Avian AuthorityAbilityAoE SlowTypeMagic Skill Odette releases a magic swan in the target direction, dealing 300 (+150% Total Magic Power) Magic Damage to enemies hit and slowing them by 30% for 2s. 7.090"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Blue Nova",
+      "description": "Blue NovaAbilityCC DamageTypeMagic Skill Odette releases a set of magic energy balls in the target direction, dealing 250 (+50% Total Magic Power) Magic Damage to the first enemy hit and immobilizing them for 1.5s. After hitting an enemy. another energy ball will split off and attack a nearby enemy (prioritizes enemy heroes), dealing them 250 (+50% Total Magic Power) Magic Damage and immobilizing them for 1.5s. 11.090"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Swan Song",
+      "description": "Swan SongAbilityBurst BlinkTypeMagic Skill Odette begins channeling magic, gaining a 1400 (+150% Total Magic Power) shield while dealing 240 (+90% Total Magic Power) Magic Damage to enemies in a large area around her every 0.5s for 5s. Use again while the skill is active to dash in the designated direction. Enemies hit by the initial attack will be slowed by 90% (decays over 2s). The bounce speed and frequency of Lakeshore Ambience's sound wave in the area are also enhanced when the skill is active. The channeling will be interrupted if Odette is controlled or performs other actions. 50.0200"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

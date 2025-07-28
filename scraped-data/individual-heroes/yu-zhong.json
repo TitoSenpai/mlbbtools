@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Yu Zhong",
+    "role": "Unknown",
+    "slug": "yu-zhong",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/b6/ML_icon_Yu_Zhong_2024.png/20px-ML_icon_Yu_Zhong_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/b6/ML_icon_Yu_Zhong_2024.png/20px-ML_icon_Yu_Zhong_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Cursing Touch",
+      "description": "Cursing TouchAbilityBUFF Yu Zhong applies Sha Residue to the target every time he deals damage to enemy heroes, and gathers Sha Essence in the meantime. Sha Residue erupts upon reaching 5 stacks, consuming 1 stack every 0.5s. Each stack consumption deals 30(+20%Extra Physical Attack)+2% of the target's HP lost as Physical Damage, restores 6% of his HP lost and gathers 6 Sha Essence for Yu Zhong. When Sha Essence is fully charged, Yu Zhong gains 30% Movement Speed and 10% Spell Vamp. (During the period, Sha Essence can be restored by dealing damage to enemies. The Movement Speed gain will decay rapidly in 2s.)"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Dragon Tail",
+      "description": "Dragon TailAbilityAoETypePhysical Skill Yu Zhong infuses his power into his cloak and turns it into a weapon, which starts to attack nearby enemies after a short delay. The inner area of the cloak deals 220(+100%Extra Physical Attack) Physical Damage, whereas the sharpened edge deals 250% damage and applies 2 stacks of Sha Residue. This skill only benefits 40% from Spell Vamp on minions. 7.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Soul Grip",
+      "description": "Soul GripAbilitySlow BlinkTypePhysical Skill Yu Zhong unleashes the Dragon Soul, dealing 150(+120% Extra Physical Attack) Physical Damage to all enemies in front and slowing them by 60% for 1s. Upon target hit, Yu Zhong's next Basic Attack will be enhanced, dealing 108(+100%Total Physical Attack) Physical Damage. (Upon multiple target hit, Yu Zhong applies Sha Residue multiple times with the enhanced Basic Attack, dealing up to 200% damage.) 14.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Black Dragon Form",
+      "description": "Black Dragon FormAbilityMorph BUFFTypePhysical Skill After channeling for 0.6s, Yu Zhong transforms into the Black Dragon form and starts charging. In up to 7s, he gains Control Immunity, ignores obstacles, and increases Max HP by 600(+200%Extra Physical Attack), dealing 180(+80%Total Physical Attack) Physical Damage to enemy heroes on the path and knocking them back. Upon exiting the Black Dragon form, Yu Zhong deals the same amount of damage to enemies nearby, and enters Dragonoid form for 10s with the help of the remaining influence of the Black Dragon. The Dragonoid form improves the range of all his skills. 85.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

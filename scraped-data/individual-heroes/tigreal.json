@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Tigreal",
+    "role": "Unknown",
+    "slug": "tigreal",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/88/ML_icon_Tigreal.png/20px-ML_icon_Tigreal.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/88/ML_icon_Tigreal.png/20px-ML_icon_Tigreal.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Fearless Ability TypeBuff Tigreal gains a stack of Fearless each time he uses a skill or is hit by a Basic Attack. After getting 4 stacks, Tigreal will consume all Fearless stacks to block the next incoming Basic Attack (including attacks from Turrets)Attacks from Minions do not grant Fearless stacks nor trigger its effect"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Attack Wave Ability TypeAOE Slow DamagePhysical Base Cooldown: 7.0 Base Mana Cost: 45 Tigreal smashes the ground with his hammer and sends a shockwave that erupts 3 time in the target direction, each time deadling 270 (70%Total Physical Attack) Physical Damage to enemies along the fan-shaped area and slowing them by 20%/40%/60% for 1.5s"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Sacred Hammer Ability TypeCharge CC DamagePhysical Base Cooldown: 16.0 Base Mana Cost: 70 Tigreal charges in the target direction, dealing (+100%Total Physical Attack) Physical Damage to enemies along the way and pushing them to the end of the chargeUse Again: Tigreal can use this skill again within 4s, dealing 280 (+60%Total Physical Attack) Physical Damage to enemies in front of him and knocking them airborne for 1s."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Implosion Ability TypeCC AOE DamagePhysical Base Cooldown: 55.0 Base Mana Cost: 120 Tigreal unleashes the power of his hammer, pulling nearby enemies to him and stunning them for 1.8s while dealing 270 (+130%Total Physical Attack) Physical DamageThe first half of the channeling can be interrupted by control effects. The second half of the channeling can only be interrupted by Suppression."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

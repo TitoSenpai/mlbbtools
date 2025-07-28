@@ -1,0 +1,39 @@
+{
+  "basic_info": {
+    "name": "Alice",
+    "role": "Unknown",
+    "slug": "alice",
+    "image_url": "https://liquipedia.net/commons/images/thumb/0/09/ML_icon_Alice.png/20px-ML_icon_Alice.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/0/09/ML_icon_Alice.png/20px-ML_icon_Alice.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Blood Ancestry Ability TypeBuff Alice restores 1.5% Max Mana per second, which increases to 3% when in combat against enemy heroes.Each time Alice levels up, her Movement Speed increases by 3 and Healing Received increases by 1%."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Flowing Blood Ability TypeMobility AOE DamageMagic Base Cooldown: 8.0 Base Mana Cost: 50 Alice casts a sphere of blood energy in the target direction, dealing 400 (+120%Total Magic Power) Magic Damage to enemies in its path.Use Again: Alice immediately teleports to the blood sphere's location."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Blood Awe Ability TypeCC AOE DamageMagic Base Cooldown: 6.0 Base Mana Cost: 100 Alice deals 200 (+75%Total Magic Power) plus 2.5 (+0.3%Total Mana)% of the target's Max HP as Magic Damage to nearby enemies and immobilizes them for 0.5s. After the immobilizes effect ends, the target will be slowed by 70% for 1.5s.Creeps can only take up to 250 damage from the max HP-based damage."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Blood Ode Ability TypeAOE Heal DamageMagic Base Cooldown: 2.0 Base Mana Cost: 60 Alice enters the blood-draining state, consuming 60 Mana while dealing 30 (+30%Total Magic Power) Magic Damage to nearby enemies every 0.5s. She recovers 40 (+30% Total Magic Power) HP each time she damages an enemy hero (only 50% of that HP for other enemy units).Each time this effect damages an enemy hero, the cooldown of Flowing Blood is reduced by 0.2s and the cooldown of Blood Owe is reduced by 0.5%."
+    }
+  ],
+  "lore": {
+    "relationships": []
+  },
+  "patches": [],
+  "esports_stats": []
+}

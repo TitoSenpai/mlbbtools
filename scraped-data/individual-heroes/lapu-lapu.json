@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Lapu-Lapu",
+    "role": "Unknown",
+    "slug": "lapu-lapu",
+    "image_url": "https://liquipedia.net/commons/images/thumb/3/32/ML_icon_Lapu-Lapu.png/20px-ML_icon_Lapu-Lapu.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/3/32/ML_icon_Lapu-Lapu.png/20px-ML_icon_Lapu-Lapu.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Homeland Defender",
+      "description": "Homeland DefenderAbilityBUFF Shield Lapu-Lapu accumulates 10 Bravery Blessing each time he deals damage (halved for damage dealt to non-hero units). When Bravery Blessing is full, Lapu-Lapu's next Basic Attack will make him dash toward the target, dealing 250(+65*Hero Level) Physical Damage (cannot critically strike) and granting him a shield that absorbs 2.5 damage for (+150% Total Physical Attack)s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Justice Blades",
+      "description": "Normal Heavy Sword Stance Justice BladesAbilityAoETypePhysical Skill Lapu-Lapu releases two boomerangs in the target direction, each boomerang dealing 175(+50%Total Physical Attack) Physical Damage to enemies hit on its way out and back. Enemies hit by both boomerangs take 50% damage from the second hit. 8.0\"Enemies have their sharp spears, but we have strong and brave souls.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.0 7.6 7.2 6.8 6.4 6.0 Base Damage 175 200 225 250 275 300 Land ShakerAbilityCC AoETypePhysical Skill Lapu-Lapu channels for 0.7s, slowing enemies in the target direction by 60%. He then slams his heavy sword to the ground, dealing 250(+100%Total Physical Attack) Physical Damage to enemies hit and stunning them for 1s. 10.0\"Enemies have their sharp spears, but we have strong and brave souls.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 250 280 310 340 370 400"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Jungle Warrior",
+      "description": "Normal Heavy Sword Stance Jungle WarriorAbilityBlink DamageTypeBlink/Physical Skill Lapu-Lapu dashes in the target direction, dealing 100(+50%Total Physical Attack) Physical Damage to enemies along the way. 10.0 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 10.0 9.7 9.4 9.1 8.8 8.5 Base Damage 100 120 140 160 180 200 Storm SwordAbilityReduce DMG AoETypePhysical Skill Lapu-Lapu whirls his heavy sword, dealing 250(+100%Total Physical Attack) Physical Damage to nearby enemies. For each enemy hero hit, Lapu-Lapu gains 15% extra Damage Reduction for 4s. 4.0 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 250 280 310 340 370 400"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Bravest Fighter",
+      "description": "Normal Heavy Sword Stance Bravest FighterAbilityMorph BlinkTypePhysical Skill/Blink Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300(+80%Total Physical Attack) Physical Damage to nearby enemies upon landing and slowing them by 60% for 1s. Lapu-Lapu gains 500% times more Bravery Blessing from this Skill and Skills in transformed state. For the next 10s, Lapu-Lapu enters Great Sword stance and gains enhanced skills, 30 extra Physical & Magic Defense, and his Basic Attack damage is increased to 120%. 20.0 Level 1 Level 2 Level 3 Cooldown 20.0 17.5 15.0 Base Damage 300 400 500 Defense Inrease 30 45 60 Raging SlashAbilityBurst BlinkTypePhysical Skill/Charge Lapu-Lapu swings his heavy sword 3 times. The first two attacks deal 380(+160%Total Physical Attack) Physical Damage each, while the third deals 440(+210%Total Physical Attack) Physical Damage to enemies in a large area. Lapu-Lapu gains Control Immunity during this process and can change his attack direction and move a short distance on each attack. 40.0 Level 1 Level 2 Level 3 Cooldown 40.0 35.0 30.0 First Two Slashes 380 480 580 The Third Slash 440 580 720"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

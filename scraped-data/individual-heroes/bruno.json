@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Bruno",
+    "role": "Unknown",
+    "slug": "bruno",
+    "image_url": "https://liquipedia.net/commons/images/thumb/5/57/ML_icon_Bruno_2023.png/20px-ML_icon_Bruno_2023.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/5/57/ML_icon_Bruno_2023.png/20px-ML_icon_Bruno_2023.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Mecha Legs",
+      "description": "Mecha LegsAbilityBUFF Bruno gains 2% extra Crit Chance each time he deals damage with his skills (up to 10 stacks). Bruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources. Note"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Volley Shot",
+      "description": "Volley ShotAbilityDamage SlowTypePhysical Basic ATK Bruno kicks a Powerball on his next Basic Attack, dealing 100(+100%Total Physical Attack) Physical Damage to the target, slowing them by 30%, and speeding up by 30% for 0.5s. The Powerball then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the Powerball for another attack and reduce the cooldown of Flying Tackle by 1s. 10.075"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Flying Tackle",
+      "description": "Flying TackleAbilityBlink CCTypePhysical Skill/Blink Bruno makes a slide tackle in the target direction, dealing 140(+40%Total Physical Attack) Physical Damage to enemies in his path and stunning them for 0.5s. If the Powerball is bouncing back, Bruno also draws the Powerball toward him. 7.060"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Worldie",
+      "description": "WorldieAbilityBurst CCTypePhysical Skill Bruno kicks his Energy Ball at the target enemy hero, dealing them 250(+83%Total Physical Attack) Physical Damage and knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing 150(+50%Total Physical Attack) Physical Damage. Each hit also reduces the enemy's Physical Defense by 4% for 8s (up to 3 stacks). 38.0140"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

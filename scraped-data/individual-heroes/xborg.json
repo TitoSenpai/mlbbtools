@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "X.Borg",
+    "role": "Unknown",
+    "slug": "xborg",
+    "image_url": "https://liquipedia.net/commons/images/thumb/4/4b/ML_icon_X.Borg_2023.png/20px-ML_icon_X.Borg_2023.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/4/4b/ML_icon_X.Borg_2023.png/20px-ML_icon_X.Borg_2023.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Firaga Armor",
+      "description": "Firaga ArmorAbilityBUFF X.Borg's Firaga Armor inherits 120% of his Max HP and takes all damage for X.Borg while it's active. When the Armor is consumed, X.Borg will disengage from the Armor and roll to the direction chose by your Joystick, he takes no damage in the process. The energy of his Armor is gradually regenerated while X.Borg is in the Armorless State. When energy is full, X.Borg re-equips the Armor and restore the Armor to 30% of his Max HP. X.Borg's fire damage causes enemies to warm up, and enemies with highest temperature will drop Firaga supplies when they take flame damage. Picking up a Firaga supply restores 10% of Armor HP, or 10 energy while in Armorless State."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Fire Missiles",
+      "description": "Fire MissilesAbilityAoETypePhysical Skill/True DMG Skill X.Borg sprays fire in the target direction, dealing 25 (+60%Total Physical Attack)(+40%Total Magic Power) Physical Damage to enemies hit 7 times over 2s (only 75% damage against minions at Lv. 1). Enemies with the maximum temperature are dealt True Damage. Armorless State: The attack range becomes narrower but longer, while the damage is reduced to 60% of that in the Armor state. 4.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Fire Stake",
+      "description": "Fire StakeAbilityCCTypePhysical Skill X.Borg shoots 5 Fire Stakes at the edge of the fan-shaped indicator and retrieves them after 1.7s, each dealing 50 (+20%Total Physical Attack) Physical Damage and pulling the enemies in the path toward him. Firaga Supplies in the path will also be retrieved if touched by Fire Stakes. Armorless State: X.Borg adjusts Fire Stake Launcher to increase its range and shorten the distance between Fire Stakes. 12.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Last Insanity",
+      "description": "Last InsanityAbilityBurst BlinkTypePhysical Skill/True DMG Skill X.Borg charges in the target direction, rotating while spraying fire around, dealing 200 (+130%Extra Physical Attack)(+90% Total Magic Power) Physical Damage to enemies hit 7 times and slowing them by 25%. He stops upon hitting an enemy hero and additionally slows them by 40%. His Firaga Armor detonates after 3s or upon destruction, dealing 300 plus 15% of the target's Max HP as True Damage to nearby enemies (only 50% of the damage if the Armor is destroyed). X.Borg can dash a short distance in the Joystick's direction upon the detonation, removing all debuffs on him and entering the Armorless state. This skill cannot be cast in the Armorless state. Use Again: X.Borg stops spraying and triggers the detonation early. 30.0My hometown was once a beautiful place."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

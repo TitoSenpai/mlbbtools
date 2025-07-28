@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Johnson",
+    "role": "Unknown",
+    "slug": "johnson",
+    "image_url": "https://liquipedia.net/commons/images/thumb/f/f2/ML_icon_Johnson_2023.png/20px-ML_icon_Johnson_2023.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/f/f2/ML_icon_Johnson_2023.png/20px-ML_icon_Johnson_2023.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Electro Airbag Ability TypeShield When Johnson's HP drops below 30%, he gains a 300 (+700% Total Physical Defense) shield for 10s. Cooldown: 100s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Impact Wrench Ability TypeCC AOE DamageMagic Base Cooldown: 8.0 Johnson throws his spanner toward the target location, dealing 120 (+220% Total Physical Defense) Magic Damage to enemies in its path. Enemies around the landing point are stunned for 0.8s."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Electromagnetic Waves Ability TypeAOE Slow DamageMagic Base Cooldown: 10.0 Johnson raises his shield, continuously dealing 80 (+60% Total Magic Power) Magic Damage to enemies in a fan-shaped area in the target direction and slowing them by 20%. Each instance of damage also increases the enemy's subsequent damage taken from the skill by 15% (up to 45%). This damage is increased by 60% against creeps. Johnson can cast Basic Attacks and skills for the duration."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Full Throttle Ability TypeMorph CC DamageMagic Base Cooldown: 36.0 Johnson transforms into a car and begins accelerating over time. An allied hero can use when near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero or obstacle, dealing 300 (+160% Total Magic Power) -450 (+280% Total Magic Power) Magic Damage to nearby enemies, stunning them for 0.5-1s (scales with the car's speed before impact), and creating an electrified zone at the location. The zone continuously deals 60 (+20% Total Magic Power) Magic Damage and slowed. Johnson can cast Throttle to skip the acceleration phase, Brake to stop immediately, and hold Nitrous to continuously increase his speed for up to 5s. Johnson's location is revealed for 3s upon casting this skill. Passive: Johnson's Physical Defense is increased by 10%."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Harith",
+    "role": "Unknown",
+    "slug": "harith",
+    "image_url": "https://liquipedia.net/commons/images/thumb/f/f9/ML_icon_Harith.png/20px-ML_icon_Harith.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/f/f9/ML_icon_Harith.png/20px-ML_icon_Harith.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Key Insight",
+      "description": "Key InsightAbilityBUFF Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Synchro Fission",
+      "description": "Synchro FissionAbilityAoETypeMagic Skill Harith creates a phantom of himself in a distant location. Harith and his phantom will then release Synchro Fission toward each other, dealing 236(+84%Total Magic Power) Magic Damage to all enemy units on the path. When the 2 energy waves collide, an explosion occurs, dealing 590(+210%Total Magic Power) Magic Damage to all enemies in the explosion area. 5.050"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Chrono Dash",
+      "description": "Chrono DashAbilityBlink BUFFTypeMagic Basic ATK/Blink Harith dashes towards the designated direction. When arrives, he steals Magic Power of nearby enemy heroes, generates a shield that absorbs at least 185(+140%Total Magic Power) damage and enhance the next Basic Attack. Harith's enhanced Basic Attack deals 225(+100%Total Physical Attack)(+100%Total Magic Power) Magic Damage and slows enemies by 40%. Hitting an enemy with Harith's enhanced Basic Attack reduces the cooldown of Chrono Dash by 3s. 9.340"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Zaman Force",
+      "description": "Zaman ForceAbilityBUFF Slow Harith uses his Key to summon the Zaman Force. When the multidimensional rift appears, the CD of Chrono Dash is reduced by 4s. The rift initially slows enemy heroes in the area by 70%, and will continuously slow enemy heroes by 35% afterwards. If Harith comes into contact with the rift using Chrono Dash, he will absorb the energy within and reduce the cooldown of Synchro Fission by 1s and Chrono Dash by 3s respectively. 40.0120\"They say geniuses recognize one another!\", a quote from Harley"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

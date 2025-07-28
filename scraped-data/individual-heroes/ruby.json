@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Ruby",
+    "role": "Unknown",
+    "slug": "ruby",
+    "image_url": "https://liquipedia.net/commons/images/thumb/9/98/ML_icon_Ruby.png/20px-ML_icon_Ruby.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/9/98/ML_icon_Ruby.png/20px-ML_icon_Ruby.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Let's dance!",
+      "description": "Let's dance!AbilityBUFF Ruby has 10% initial Physical Lifesteal. Her skills benefit from 115% of her Physical Lifesteal, while her Basic Attacks cannot trigger Lifesteal. After each skill cast, Ruby can dash to another location, gaining 9(+1.8*Hero Level) Physical & Magic Defense (scales with level, up to 3 stacks) for 4s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Be Good!",
+      "description": "Be Good!AbilityAoE SlowTypePhysical Skill Ruby swings her scythe, dealing 80(+65%Total Physical Attack) Physical Damage to enemies in an arc. She then releases a shockwave in the same direction that deals 80(+65%Total Physical Attack) Physical Damage to enemies hit and slows them by 40% for 2s. 4.025"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Don't run, Wolf King!",
+      "description": "Don't run, Wolf King!AbilityCC AoETypePhysical Skill Ruby swings her scythe around herself twice, each swing dealing 60(+55%Total Physical Attack) Physical Damage to nearby enemies, stunning them for 0.5s, and slowly pulling them toward her. 7.050"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "I'm offended!",
+      "description": "I'm offended!AbilityCC AoETypePhysical Skill Ruby sweeps her scythe in the target direction, dealing 200(+200%Total Physical Attack) Physical Damage to enemies hit, pulling them toward her, and stunning them for 0.5s. 26.080"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

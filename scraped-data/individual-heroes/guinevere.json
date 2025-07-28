@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Guinevere",
+    "role": "Unknown",
+    "slug": "guinevere",
+    "image_url": "https://liquipedia.net/commons/images/thumb/0/0d/ML_icon_Guinevere.png/20px-ML_icon_Guinevere.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/0/0d/ML_icon_Guinevere.png/20px-ML_icon_Guinevere.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Super Magic",
+      "description": "Super MagicAbilityBUFF Damage Guinevere deals 25% extra damage to airborne enemies. Guinevere deals (+80%Total Physical Attack)(+60%Total Magic Power) Magic Damage with her Basic Attacks and accumulates Super Magic each time she deals damage. When she's fully charged, her next Basic Attack becomes guided, dealing 80(+100%Total Physical Attack)(+120%Total Magic Power) Magic damage on hit and restoring 80 plus 8% of her lost HP. Enemies hit by Guinevere's enhanced Basic Attack, Energy Wave, or Spatial Migration are marked for 5s. Those with 3 marks will be knocked airborne when hit by her Violet Requiem."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Energy Wave",
+      "description": "Energy WaveAbilityDamage BUFFTypeMagic Skill Guinevere releases an energy orb in the target direction, dealing 300(+130%Total Magic Power) Magic Damage to the first enemy hit and slowing them by 50% for 1.2s. Successfully hitting an enemy reduces all her skill cooldowns by 1s. 4.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Spatial Migration",
+      "description": "Spatial MigrationAbilityBlink CCTypeMagic Skill/Blink Guinevere thumps at the target location for 250(+80%Total Magic Power) Magic Damage. Enemy Heroes and Creeps hit will be knocked airborne for 1s and take 125(+50%Total Magic Power) additional Magic Damage. After cast, Guinevere can reactivate the skill in 5s to blink toward the target direction and leave an illusion behind. If the illusion takes damage, it restores Super Magic for Guinevere and will explode in 1.5s, dealing 100(+30%Total Magic Power) Magic Damage to nearby enemies. 17.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Violet Requiem",
+      "description": "Violet RequiemAbilityBurst CCTypeMagic Skill nevere creates a force field around her, attacking nearby enemies 11 times within 2s, dealing 650(+500%Total Magic Power) Magic Damage in total. If the enemy hit is already airborne, they will be knocked airborne again, up to 6 additional times. Guinevere is immune to CC while casting this skill. 45.0Where to find my bosom friend?"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

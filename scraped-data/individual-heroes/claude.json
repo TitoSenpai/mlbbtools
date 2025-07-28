@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Claude",
+    "role": "Unknown",
+    "slug": "claude",
+    "image_url": "https://liquipedia.net/commons/images/thumb/3/30/ML_icon_Claude_2024.png/20px-ML_icon_Claude_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/3/30/ML_icon_Claude_2024.png/20px-ML_icon_Claude_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Battle Side-by-side",
+      "description": "Battle Side-by-sideAbilityBUFF Dexter assists Claude on each of his Basic Attacks, dealing 25(+25%Total Physical Attack) Physical Damage to the same target (can trigger Attack Effects)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Art of Thievery",
+      "description": "Art of ThieveryAbilityAoE BUFFTypePhysical Skill Claude emits a disruption wave in the target direction, dealing 160(+40%Total Physical Attack) Physical Damage to enemies in a fan-shaped area and reducing their Movement Speed by 20% and Attack Speed by 10%. For each enemy hit, Claude gains 4% Movement & Attack Speed (doubled for enemy heroes hit) for 6s (up to 5 stacks). 5.065"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Battle Mirror Image",
+      "description": "Battle Mirror ImageAbilityBlink SummonTypeBlink Claude conjures a mirror image of Dexter at the target location that automatically attacks nearby enemies for 5.5s. The mirror image's Basic Attack deals 25(+25%Total Physical Attack) Physical Damage and can trigger Claude's attack effects. Use Again: Claude switches places with the mirror image. 11.070"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Blazing Duet",
+      "description": "Blazing DuetAbilityBurst ShieldTypePhysical Basic ATK Claude and Dexter rapidly fire at nearby enemies for 3s, each time dealing 100(+10%Total Physical Attack) Physical Damage to up to two enemies (can trigger attack effects). Claude also gains a 20(+3%Total Physical Attack) shield each time an enemy is hit. The rate of fire increases with Claude's Attack Speed. Blazing Duet deals 300% damage to minions. 50.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

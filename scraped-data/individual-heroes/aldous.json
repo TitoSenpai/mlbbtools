@@ -1,0 +1,39 @@
+{
+  "basic_info": {
+    "name": "Aldous",
+    "role": "Unknown",
+    "slug": "aldous",
+    "image_url": "https://liquipedia.net/commons/images/thumb/a/a6/ML_icon_Aldous.png/20px-ML_icon_Aldous.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/a/a6/ML_icon_Aldous.png/20px-ML_icon_Aldous.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Contract: Transform Ability TypeShield After every 2 Basic Attacks, Aldous gains a 500 (+3 times the number of Soul Steal stacks) shield for 3s on his next Basic Attack.This effect can only be triggered once every 5s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Contract: Soul Steal Ability TypeDamage Buff DamagePhysical Base Cooldown: 4.0 Base Mana Cost: 60 Aldous unleashes his inner energy to enhance his next Basic Attack to deal Physical Damage equal to 200 (+100%Total Physical Attack) plus 5 times the number of Soul Steal stacks.If this attack kills an enemy hero/Siege Minion/other non-hero unit, Aldous will gain 10/10/4 stacks of Soul Steal (up to 650 stacks).The enhanced Basic Attack deals 300% extra Base Damage to Minions or Creep. Aldous gets an extra 5/2 stack(s) of Soul Steal when a nearby enemy Siege Minion/other non-hero unit dies."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Contract: Explosion Ability TypeBuff CC DamagePhysical Base Cooldown: 12.0 Base Mana Cost: 80 Aldous assumes a defensive stance, gaining 30% Damage Reduction and 20% extra Movement Speed for 2s or until manual cancellation. He then deals 100 (+20%Total Physical Attack)–200 (+40%Total Physical Attack) Physical Damage to nearby enemies and stuns them for 0.5-1s (scales with defensive stance duration)."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Contract: Chase Fate Ability TypeMobility Damage DamagePhysical Base Cooldown: 60.0 Base Mana Cost: 150 Aldous gains vision of all enemies for 5s. During this time, if Aldous uses this skill again, he can dash toward an enemy hero. When Aldous hits that enemy hero, he will deal Physical Damage equal to 250 plus 8% of the target's Max HP and knock back the target for 1s. (Aldous can interrupt target's Recall during the dash)."
+    }
+  ],
+  "lore": {
+    "relationships": []
+  },
+  "patches": [],
+  "esports_stats": []
+}

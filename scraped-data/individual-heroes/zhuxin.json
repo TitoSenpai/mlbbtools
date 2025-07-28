@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Zhuxin",
+    "role": "Unknown",
+    "slug": "zhuxin",
+    "image_url": "https://liquipedia.net/commons/images/thumb/2/2c/ML_icon_Zhuxin.png/20px-ML_icon_Zhuxin.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/2/2c/ML_icon_Zhuxin.png/20px-ML_icon_Zhuxin.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Crimson Butterflies Ability TypeBuff DamageMagic Every time Zhuxin channels Lantern Flare, she converts the Mana spent into up to 30 Crimson Butterflies to follow her Spirit Lantern. After Zhuxin stops channeling Lantern Flare, the Crimson Butterflies will gradually disappear, each restoring 3% of her Max Mana. Zhuxin has a naturally high base Max Mana, but it doesn't scale with her level."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Fluttering Grace Ability TypeAOE Buff DamageMagic Base Cooldown: 12.0 Base Mana Cost: 70 Zhuxin deals 150 (+30% Total Magic Power) Magic Damage to all enemies in a fan-shaped area and applies 1 stack(s) of Soul Snare. Zhuxin also slows all enemy heroes hit by 20% and gains 20% of extra Movement Speed herself for 1.5s."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Lantern Flare Ability TypeDamage CC DamageMagic Base Cooldown: 0.5 Base Mana Cost: 75 Hold: Zhuxin continously consumes Mana while the Spirit Lantern can be moved with the skill button, dealing 33 (+28% Total Magic Power) Magic Damage (28% damage to Minions) to all enemies within range every 0.25s and applying Soul Snare to enemy heroes hit. When an enemy hero has 10 stacks of Soul Snare, the Crimson Butterflies will capture them, pulling them airborne for 1s. Release: Throws all captured enemies to the target location, dealing 270 (+150% Total Magic Power) Magic Damage to all enemies in the area. (If the enemy took damage several times, the subsequent damage taken is reduced by 80%.)"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Crimson Beacon Ability TypeShield Mobility DamageMagic Base Cooldown: 60.0 Base Mana Cost: 100 Zhuxin blinks to the target location while gaining a 400 (+100% Total Magic Power) shield. While flying, she creates a field around her for 6 seconds. The field deals 60 (+20% Total Magic Power) Magic Damage and applies 1 stack of Soul Snare to enemies every 1s."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

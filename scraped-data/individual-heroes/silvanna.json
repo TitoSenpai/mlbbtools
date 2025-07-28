@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Silvanna",
+    "role": "Unknown",
+    "slug": "silvanna",
+    "image_url": "https://liquipedia.net/commons/images/thumb/4/46/ML_icon_Silvanna.png/20px-ML_icon_Silvanna.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/4/46/ML_icon_Silvanna.png/20px-ML_icon_Silvanna.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Knightess' Resolve",
+      "description": "Knightess' ResolveAbilityBUFF Debuff Silvanna's Basic Attacks deal 25(+45%Total Physical Attack)(+75%Total Magic Power) Magic Damage. Silvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducing their Physical & Magic Defense by 3-6 (up to 5 stacks). Silvanna deals 30% extra damage to enemy heroes with the max number of marks."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Cometic Lance",
+      "description": "Cometic LanceAbilityCC BlinkTypeMagic Skill/Blink Silvanna thrusts her lance in the target direction, dealing 150(+70%Total Magic Power) Magic Damage to enemies in a line and stunning the first enemy hero hit for 1s. Successfully hitting an enemy allows Silvanna to cast this skill again within 4.5s to dash a set distance in the target direction or until she hits an enemy hero or creep, after which she swings her lance, dealing 250(+100%Total Magic Power) Magic Damage to nearby enemies. 12.095"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Spiral Strangling",
+      "description": "Spiral StranglingAbilityAoE ShieldTypeMagic Skill Silvanna stabs her lance in the target direction and spins it 6 times, each time dealing 165(+45%Total Magic Power) Magic Damage to enemies hit and slightly pulling them toward the center. She also gains a 250(+150%Total Magic Power) shield for the duration. Every 50% extra Attack Speed Silvanna possesses increases the spin times by one. This skill deals only 50% damage to minions."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Imperial Justice",
+      "description": "Imperial JusticeAbilityCC AoETypeMagic Skill/Blink Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing 350(+110%Total Magic Power) Magic Damage to enemies in the area, slowing them by 40% for 1.5s, and restraining the closest enemy hero to the area for 3.5s. Silvanna gains 100% extra Attack Speed and 80% extra Magic Lifesteal when in the Circle. 46.0130"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

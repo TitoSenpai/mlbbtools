@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Arlott",
+    "role": "Unknown",
+    "slug": "arlott",
+    "image_url": "https://liquipedia.net/commons/images/thumb/a/ab/ML_icon_Arlott.png/20px-ML_icon_Arlott.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/a/ab/ML_icon_Arlott.png/20px-ML_icon_Arlott.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Demon Gaze Ability TypeBuff Arlott possesses a demonic eye that will Mark enemy units near Arlott that become affected by control effects for 8s.The eye will also automatically Mark a nearby enemy hero in vision every 8s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Dauntless Strike Ability TypeCC AOE DamagePhysical Base Cooldown: 8.0 Base Mana Cost: 50 Arlott swings his lance forward, dealing 200 (+60%Total Physical Attack) Physical Damage and briefly stunning targets in an area. Targets hit by the further part of the AOE will be stunned for 1s instead."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Vengeance Ability TypeDamage Mobility DamagePhysical Base Cooldown: 10.0 Base Mana Cost: 40 Arlott charges at an enemy, dealing 135 (+60%Total Physical Attack) Physical Damage (this skill cannot be interrupted during movement).If Arlott's target is Marked, this skill will deal double damage, immediately refresh its cooldown, and restore (90%Total Physical Attack) HP to Arlott (only restores 50% of that amount when used on a non-hero unit)."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Final Slash Ability TypeCC AOE DamagePhysical Base Cooldown: 24.0 Base Mana Cost: 100 Arlott cleaves in front of him, dealing 400 (+80%Total Physical Attack) Physical Damage to targets in the area while pushing them to the end of the AOE and briefly revealing their location."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

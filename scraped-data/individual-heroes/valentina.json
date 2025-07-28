@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Valentina",
+    "role": "Unknown",
+    "slug": "valentina",
+    "image_url": "https://liquipedia.net/commons/images/thumb/4/48/ML_icon_Valentina.png/20px-ML_icon_Valentina.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/4/48/ML_icon_Valentina.png/20px-ML_icon_Valentina.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Primal Force",
+      "description": "Primal ForceAbilityBUFF HEAL Valentina gains 8-50 extra EXP each time she deals damage to an enemy hero. Cooldown: 2s. If the enemy hero's level isn't higher than Valentina's, 30% of the damage dealt is converted into her HP. The EXP scales with Valentina's level. 2.0"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Shadow Strike",
+      "description": "Shadow StrikeAbilityDamage CCTypeMagic Skill Valentina casts Shadow Strike in the target direction, dealing 340(+185%Total Magic Power) Magic Damage to enemies hit and slowing them by 40% for 1s. Enemy heroes hit by Shadow Strike are marked with a Shadow Sigil for 4s and will be terrified for 1s when hit by Shadow Strike again within the duration. 7.070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Arcane Shade",
+      "description": "Arcane ShadeAbilityBlink BUFFTypeMagic Skill/Blink Valentina dashes in the target direction, firing 3 Shadow Bolts at nearby enemies that deal 125(+30%Total Magic Power) Magic Damage each. Valentina can cast this skill again within 6s (costs Mana). The cooldown of Shadow Strike is reduced by 1s each time a Shadow Bolt hits an enemy. 12.045"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "I Am You",
+      "description": "I Am YouAbilityMorph Slow Valentina slows the target enemy hero by 70% for 0.5s and gains the ability to cast their Ultimate. Casting the enemy's Ultimate turns Valentina into the enemy hero's form and allows her to inherit their Basic Attack type for up to 12s. Her regular skills remain unchanged, unless the enemy's Ultimate has a Morph effect. The stolen Ultimate's level is determined by that of Valentina's own. She gains (+100% Total Magic Power) extra Physical Attack for the duration if the enemy is a Physical Damage hero. This skill has no effect on enemy Valentina. 55.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

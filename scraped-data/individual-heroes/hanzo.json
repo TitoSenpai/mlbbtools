@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Hanzo",
+    "role": "Unknown",
+    "slug": "hanzo",
+    "image_url": "https://liquipedia.net/commons/images/thumb/7/72/ML_icon_Hanzo_2025.png/20px-ML_icon_Hanzo_2025.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/7/72/ML_icon_Hanzo_2025.png/20px-ML_icon_Hanzo_2025.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ame no Habakiri",
+      "description": "Ame no HabakiriAbilityBUFF Hanzo When units are eliminated nearby, the Blood Demon absorbs their souls into its body into Demon Blood. Hanzo gains 2 Demon Blood for each non-hero on death and 20 Demon Blood if it's a hero."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ninjutsu: Demon Feast",
+      "description": "Sealed Demon Pneuma Ninjutsu: Demon FeastAbilityDamageTypeTrue DMG Skill Every 5 basic attacks by Hanzo (temporarily unlocks) this ability for 6.5s. Hanzo uses Ame no Habakiri to devour a target and digest them over a period of time. By doing so Hanzo gets 10 Demon Blood. (Can only be used against Minions and Creeps. Targeting Lord or Turtle deals 500 True Damage). 25.0Ninja's Trial Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Gain Demon Blood 10 12 14 16 18 20 True Damage 500 700 900 1100 1300 1500 Ninjutsu: Demon ThornAbilityDamageTypePhysical Skill Every 5 basic attacks by Hanzo temporarily unlocks this skill for 6.5s. Hanzo burrows underground and lunges forward to attack enemies in a line, dealing 300(+60%Total, Physical Attack) and 15% of the target's max HP as Physical Damage, knocking them airborne and gaining 10 Demon Blood. (Damage reduced against non-hero units) 6.0Ninja's Trial Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 300 350 400 450 500 550 Extra Damage 15% 17% 19% 21% 23% 25%"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ninjutsu: Soul Reap",
+      "description": "Sealed Demon Pneuma Ninjutsu: Soul ReapAbilityDamage BUFFTypePhysical Skill Hanzo summons demonic spikes at the target location, dealing 160(+60%Total Physical Attack) immediate Physical Damage. If an enemy is hit, the skill will strike again after 0.5 s, dealing 40(+15%Total Physical Attack) Physical Damage to targets in the area and slowing them by 40% until no target is hit or dealing additional damage for 8 times. Every unit hit grants him 1 Demon Blood. 7.5 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 160 200 240 280 320 360 Damage per Hit 40 50 60 70 80 90 Ninjutsu: DevastatorAbilityDamage BUFFTypePhysical Basic ATK Hanzo flies to the target location as Demon Pneuma, dealing 80(+50%Total Physical Attack) Physical Damage within this area. (Can trigger basic attack effects). If an enemy is hit the skill will repeat itself after 0.3s, until no target is hit or reaching a total of 8 occurrences. Hitting an enemy unit unlocks one seal of Ninjutsu: Demon Thorn. Moving, attacking or recasting this skill will terminate the process immediately. 10.0 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Base Damage 80 100 120 140 160 180"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Kinjutsu: Pinnacle Ninja",
+      "description": "Kinjutsu: Pinnacle NinjaAbilityMorph BlinkTypePhysical Skill Hanzo gains 25 Demon Blood and charges into battle as Demon Pneuma, gaining a new set of basic skills while leaving his body behind. Demon Pneuma consumes 10 Demon Blood every second, and when it is depleted, Hanzo returns to his body's original position. While in Demon Pneuma form, it can move through terrains and has additional 35% Movement Speed and 30% Attack Speed, but its Physical and Magic Defense are reduced by 50.0%. When Demon Pneuma is killed, it will be drawn back to Hanzo's body, stunning him for 3s and weakening him for 8s (slowed by 55%, Physical and Magic Defense reduced by 100% and location revealed); they are both killed if the body is destroyed. Choice: Demon Pneuma returns to Hanzo's body immediately, or the other way around. 21.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

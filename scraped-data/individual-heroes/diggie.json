@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Diggie",
+    "role": "Unknown",
+    "slug": "diggie",
+    "image_url": "https://liquipedia.net/commons/images/thumb/2/2a/ML_icon_Diggie.png/20px-ML_icon_Diggie.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/2/2a/ML_icon_Diggie.png/20px-ML_icon_Diggie.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Young Again",
+      "description": "Young AgainAbilityBUFF Upon death, Diggie reverses time and turns back to egg form, in which he can continue to move around and gains a new set of skills. He cannot be targeted in egg form and will revive after a period of time."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Auto Alarm Bomb",
+      "description": "Auto Alarm BombAbilityAoE SlowTypeMagic Skill Diggie flings an owl alarm to the target location that remains stationary for 25s or until it reacts to the first enemy in range, chasing them and exploding upon collision. The explosion deals 500(+100%Total Magic Power) Magic Damage to enemies hit and slows them by 30%. Diggie gains 2 stacks of Dangerous Sparks each time an enemy hero is hit by the explosion (up to 60 stacks), each stack increasing the skill's damage by 1%. He loses half the stacks upon death, but can gain 1 stack of Dangerous Sparks each time his skill hits an enemy hero when in egg form. Up to 5 owl alarms can exist at the same time. 8.070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Reverse Time",
+      "description": "Reverse TimeAbilityCC DamageTypeMagic Skill Diggie marks an enemy hero for 4s and pulls them back to their previous location afterward, dealing them 150(+100%Total Magic Power) Magic Damage and briefly slowing them by 80%. If the enemy escapes too far away, the final pull will be triggered early. 15.090"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Time Journey",
+      "description": "Time JourneyAbilityCC Immune Speed Up Diggie removes all debuffs on nearby allied heroes (including himself) and grants them a 650(+200%Total Magic Power) shield and Control Immunity for 3s. He also gains 50% extra Movement Speed for 0.5s. 60.0130"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

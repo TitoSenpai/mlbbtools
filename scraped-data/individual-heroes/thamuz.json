@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Thamuz",
+    "role": "Unknown",
+    "slug": "thamuz",
+    "image_url": "https://liquipedia.net/commons/images/thumb/c/c9/ML_icon_Thamuz.png/20px-ML_icon_Thamuz.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/c/c9/ML_icon_Thamuz.png/20px-ML_icon_Thamuz.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Grand Lord Lava",
+      "description": "Grand Lord LavaAbilityDebuff When Thamuz is holding his Scythes, his each Basic Attack has a chance to conjure a burst of Lava Energy beneath the target that erupts after a 0.7s delay, dealing 50 (+110%Total Physical Attack) True Damage. When without Scythes, Thamuz gains 25% extra Movement Speed and will enhance his next Basic Attack after retrieving the Scythes. The enhanced Basic Attack slows the target by 30% and is guaranteed to trigger Lava Energy."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Molten Scythes",
+      "description": "Molten ScythesAbilityAoE SlowTypePhysical Skill Thamuz tosses his Scythes in the target direction, dealing 150(+60%Total Physical Attack) Physical Damage to the first enemy hero or creep hit. After hitting a target or traveling a certain distance, the Scythes begin to roll in the same direction at a lower speed, dealing 45(+20%Extra Physical Attack) Physical Damage to nearby enemies every 0.5s and slowing them by 30%. The Scythes will fly back to Thamuz after a while or when he's too far away. Thamuz can cast this skill again or approach the Scythes to retrieve them early. 3.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Chasm Trample",
+      "description": "Chasm TrampleAbilityBlink BUFFTypePhysical Skill Thamuz jumps to a designated area to deal 230 (+60%Extra Physical Attack) Physical Damage and slow the enemy units by 25% for 2s upon landing. If the scythes are still travelling, they will return to Thamuz and Molten Scythes will reset its CD instantly. 11.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Cauterant Inferno",
+      "description": "Cauterant InfernoAbilityAoE BUFFTypePhysical SKill Thamuz spouts the lava stored in his body, dealing 300 (+80%Total Physical Attack) Physical Damage to nearby enemies and creating a Cauterant Zone around him. The Cauterant Zone lasts 9s and deals 30 (+10%Extra Physical Attack) Physical Damage every 0.5s to enemies in the area. Meanwhile, Thamuz gains 500 extra Max HP, heals himself by the same amount, and increases his Attack Speed by 1.3 times. He also recovers 1.5% Max HP each time he deals damage with Basic Attacks or his Scythes. 45.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

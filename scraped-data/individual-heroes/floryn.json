@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Floryn",
+    "role": "Unknown",
+    "slug": "floryn",
+    "image_url": "https://liquipedia.net/commons/images/thumb/6/63/ML_icon_Floryn.png/20px-ML_icon_Floryn.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/6/63/ML_icon_Floryn.png/20px-ML_icon_Floryn.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Dew",
+      "description": "DewAbilityBUFF Dew's Lantern can slightly increase Floryn's attributes and will evolve at full energy stacks (1000). When at the Fountain, Floryn can share the Lantern's power with an allied hero, granting them an extra piece of equipment that doesn't take up equipment slots, Cooldown: 30s. The equipment will also evolve at full energy stacks. Floryn can accelerate the energy accumulation speed by hitting enemies with her skills. Floryn will never sell the Lantern."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Sow",
+      "description": "SowAbilityDamage HEALTypeHeal Floryn tosses an Energy Seed at the target enemy, dealing them 180(+180%Total Magic Power) Magic Damage. Healing Fruits will then spawn and bounce to nearby allied heroes, healing them by 175(+65%Total Magic Power) plus 5% of their lost HP (60% of the amount when the skill is cast on a non-hero enemy). Evolved Lantern: The attack range is increased to 125%. 8.090"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Sprout",
+      "description": "SproutAbilityCC DamageTypeMagic Skill Floryn casts a blob of energy in the target direction, dealing 175(+90%Total Magic Power) Magic Damage to the first enemy hit. Upon hitting an enemy or reaching the maximum range, the energy explodes, dealing 105(+54%Total Magic Power) Magic Damage to nearby enemies and stunning them for 1s. Evolved Lantern: The explosion radius is increased to 125%. 13.0100"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Bloom",
+      "description": "BloomAbilityHEAL DamageTypeHeal Floryn resonates with Dew's power, restoring 400(+70%Total Magic Power) HP for all allied heroes 2 times regardless of distance. Enemies around the allied heroes are dealt 150(+60%Total Magic Power) Magic Damage and slowed by 30% for 0.8s each time the healing takes effect. Evolved Lantern: The healing removes Healing Reduction effects on allied heroes and makes them immune to the effects for 3s. 60.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

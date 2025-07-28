@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Franco",
+    "role": "Unknown",
+    "slug": "franco",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/db/ML_icon_Franco.png/20px-ML_icon_Franco.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/db/ML_icon_Franco.png/20px-ML_icon_Franco.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Wasteland Force Ability TypeBuff If no damage is taken within 5s, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating Wasteland Force (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Iron Hook Ability TypeCC Damage DamagePhysical Base Cooldown: 15.0 Base Mana Cost: 135 Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing 400 (+100% Total Physical Attack) Physical Damage and dragging them to Franco. (+50%Total Physical Attack) Physical Damage"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Fury Shock Ability TypeSlow DamagePhysical Base Cooldown: 7.0 Base Mana Cost: 40 Franco lashes out, dealing Physical Damage equal to 300 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5s."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Bloody Hunt Ability TypeBurst CC DamagePhysical Base Cooldown: 62.0 Base Mana Cost: 110 Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50 (+70% Total Physical Attack) Physical Damage"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

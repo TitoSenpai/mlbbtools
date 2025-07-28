@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Selena",
+    "role": "Unknown",
+    "slug": "selena",
+    "image_url": "https://liquipedia.net/commons/images/thumb/6/64/ML_icon_Selena.png/20px-ML_icon_Selena.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/6/64/ML_icon_Selena.png/20px-ML_icon_Selena.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Symbiosis",
+      "description": "SymbiosisAbilityBUFF Selena can switch freely between her two forms. Elven Form: Selena applies \"Abyssal Mark\" with her skills. The mark can stack up to 2 times. When \"Abyssal Trap\" hits an enemy, it immediately adds an \"Abyssal Mark\". Abyssal Form: All damage will consume 1 stack of \"Abyssal Mark\" to deal 240~450(+40%Total Magic Power) extra Magic Damage"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Abyssal Trap",
+      "description": "Elven Form Abyssal Form Abyssal TrapAbilitySummon SlowTypeMagic Skill Selena summons an Abyssal Devil to lurk in a designated location. The Abyssal Devil will attach itself to any enemy that approaches the location and slow them by 70%. After 1s, the Abyssal Devil deals 350(+150%Total Magic Power) Magic Damage to the enemy and other nearby enemies and slows them by 50% for 1s. The Abyssal Devil lasts up to 60s. Up to 3 Abyssal Devils can exist at the same time. Each extra Abyssal Devil increases the final damage by 50%. 8.060The iron will of the Abyss befalls. Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.0 7.6 7.2 6.8 6.4 6.0 Skill Cost 60 70 80 90 100 110 Base Damage 350 390 430 470 510 550 Soul EaterAbilityBurst ShieldTypeMagic Skill Selena strengthen her claws with the power of the Abyss, causing the next basic attack to deal extra 200(130%Total Magic Power) Magic Damage, while granting a Shield that absorbs 300(+150%Total Magic Power) damage. 6.060The iron will of the Abyss befalls. Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 6.0 5.5 5.0 4.5 4.0 3.5 Skill Cost 60 65 70 75 80 85 Base Damage 200 230 260 290 320 350 Base Shield 300 320 340 360 380 400"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Abyssal Arrow",
+      "description": "Elven Form Abyssal Form Abyssal ArrowAbilityCC Speed UpTypeMagic Skill Selena fires magic arrows in a designated direction, dealing 250(+20%Total Magic Power) to 500(+40%Total Magic Power) Magic Damage to the first enemy hero hit and stunning it for 0.5s to 3s. Stun duration and damage increase with the distance that the arrows travel. The arrow absorbs \"Abyssal Traps\" as it travels and hence will apply effects of \"Abyssal Traps\" to the enemy target upon hit. If an enemy is stunned for 1s or longer, Selena's Movement Speed will be increased by 40% for 2s. 12.070 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 12.0 12.0 12.0 12.0 12.0 12.0 Skill Cost 70 80 90 100 110 120 Base Damage 250 280 310 340 370 400 Max Damage 500 560 620 680 740 800 GarotteAbilityBlink BUFFTypeMagic Skill/Blink Selena charges in a designated direction, dealing 150(+50%Total Magic Power) Magic Damage to enemies along the way. If this damage triggers \"Abyssal Mark\" effect, its CD resets immediately. 12.070 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 12.0 11.4 10.8 10.2 9.6 9.0 Skill Cost 70 80 90 100 110 120 Base Damage 150 190 230 270 310 350"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Primal Darkness",
+      "description": "Elven Form Abyssal Form Primal DarknessAbilityMorph Speed UpTypeMagic Skill Selena enters Abyssal Form and increases her Movement Speed by 30% for 0.8s. Immediately resets the CD of \"Soul Eater\" and \"Garotte\". Abyssal Form: Selena gains new skills. Her Basic Attack will deal (+25%Total Magic Power) extra Magic Damage. 4.5 Level 1 Level 2 Level 3 Level 4 Cooldown 4.5 4.0 3.5 3.0 Movement Speed Bonus 30% 35% 40% 45% Blessing of the Moon GoddessAbilityMorph Speed Up Selena enters Elven Form and increases her Movement Speed for 30%. Lasts 0.8s. Immediately reset the CD of \"Abyssal Trap\" and \"Abyssal Arrow\". 4.5 Level 1 Level 2 Level 3 Level 4 Cooldown 4.5 4.0 3.5 3.0 Movement Speed Bonus 30% 35% 40% 45%"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

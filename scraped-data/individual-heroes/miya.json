@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Miya",
+    "role": "Unknown",
+    "slug": "miya",
+    "image_url": "https://liquipedia.net/commons/images/thumb/9/95/ML_icon_Miya_2023.png/20px-ML_icon_Miya_2023.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/9/95/ML_icon_Miya_2023.png/20px-ML_icon_Miya_2023.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Moon Blessing",
+      "description": "Moon BlessingAbilityBUFF Miya gains 5% extra Attack Speed for 4s each time she hits an enemy with her Basic Attack (up to 5 stacks). At full stacks, she summons Moonlight Shadow to aid her on each Basic Attack, dealing 30 (+30% Total Physical Attack) extra Physical Damage to the target. This damage can critically strike but cannot trigger attack effects."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Moon Arrow",
+      "description": "Moon ArrowAbilityBUFF AoETypePhysical Basic ATK Miya shoots two extra arrows on each Basic Attack, dealing 10 (+100% Total Physical Attack) Physical Damage to the target enemy and 30% damage to the rest. This effect lasts 4s. The extra arrows can trigger attack effects. 11.060"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Arrow of Eclipse",
+      "description": "Arrow of EclipseAbilityCC AoETypePhysical Skill Miya launches an empowered arrow on the target area, dealing 90 (+45% Total Physical Attack) Physical Damage to enemies within and immobilizing them for 1.2s. The arrow then splits into 8 scattering minor arrows, each dealing 30 (+15% Total Physical Attack) Physical Damage to the first enemy hit and slowing them by 30% for 2s. 8.080"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Hidden Moonlight",
+      "description": "Hidden MoonlightAbilityConceal Remove CC Miya removes all debuffs on her and conceals herself, gaining 35% extra Movement Speed. This state lasts 2.0s or until she launches an attack. Miya gains full stacks of Moon Blessing upon leaving the state. 46.0120"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

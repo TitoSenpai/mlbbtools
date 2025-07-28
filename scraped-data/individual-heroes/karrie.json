@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Karrie",
+    "role": "Unknown",
+    "slug": "karrie",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/df/ML_icon_Karrie.png/20px-ML_icon_Karrie.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/df/ML_icon_Karrie.png/20px-ML_icon_Karrie.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Lightwheel Mark",
+      "description": "Lightwheel MarkAbilityBUFF Karrie's Basic Attacks and skills apply a Lightwheel Mark on hit. Once the number of Lightwheel Marks on an enemy reaches five, the marks will turn into an actual lightwheel, dealing them True Damage equal to 8%-12% of their Max HP (up to 300 against creeps)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Spinning Light Wheel",
+      "description": "Spinning Light WheelAbilityAoE SlowTypePhysical Skill Karrie releases a sphere of surging energy in the target direction, dealing 250(+90%Total Physical Attack) Physical Damage to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing 150(+20%Total Physical Attack) Physical Damage to nearby enemies and slowing them by 80% for 1s. 8.040"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Phantom Step",
+      "description": "Phantom StepAbilityBlink DamageTypePhysical Skill/Blink Karrie dashes in the target direction while releasing a lightwheel to the nearest enemy, dealing them 150(+70%Total Physical Attack) Physical Damage and applying a Lightwheel Mark to them. Dual Wield: Karrie releases two lightwheels instead. 4.535"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Speedy Lightwheel",
+      "description": "Speedy LightwheelAbilityBUFF BurstTypePhysical Basic ATK Karrie enters the Dual Wield mode for 6s, during which she gains 20% extra Movement Speed and releases two lightwheels on each Basic Attack, each lightwheel dealing 65% damage. 3570"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Carmilla",
+    "role": "Unknown",
+    "slug": "carmilla",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/8c/ML_icon_Carmilla.png/20px-ML_icon_Carmilla.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/8c/ML_icon_Carmilla.png/20px-ML_icon_Carmilla.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Vampire pact",
+      "description": "Vampire pactAbilityBUFF Debuff Each time Carmilla deals damage to an enemy hero, she steals 7-11 Physical & Magic Defense (scales with level) from them. The stolen Physical & Magic Defense can stack up to 5 times and lasts 5s. Carmilla can only steal defense from the same enemy hero once every 5s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Crimson Flower",
+      "description": "Crimson FlowerAbilityDamage HEALTypeMagic Skill Carmilla summons two Crimson Flowers that circle around her for 5s, continuously dealing 100(+50%Total Magic Power) Magic Damage to enemies hit and slowing them by 10% for 0.8s. The Slowing Effect can stack (up to 50%). The Crimson Flowers' circling speed is increased each time an enemy is hit. Carmilla also recovers 75(+35%Total Magic Power) HP (only 30% of this amount on minion hits) each time the Crimson Flowers deal damage. 9.050"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Bloodbath",
+      "description": "BloodbathAbilitySpeed Up CCTypeMagic Skill Carmilla accumulates Bloodbath Energy, gaining 70% extra Movement Speed that decays over 4.5s. Use Again: Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or creep, dealing them 150(+120%Total Magic Power) Magic Damage and stunning them for 0.6s. The damage and stun duration scale with the accumulation time (up to 100%). 11.085"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Curse of Blood",
+      "description": "Curse of BloodAbilityCCTypeMagic Skill Carmilla casts Curse of Blood in an area, where all enemies will be slowed by 40%. 1s later, enemies still in this area will suffer 450(+130%Total Magic Power) Magic Damage and be Immobilized for 0.4s, slowed by 60% and linked for 5s. When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage or become controlled for 100% of the duration. Enemies can move away from one another to break the link. 40.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

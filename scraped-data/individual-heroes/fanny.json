@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Fanny",
+    "role": "Unknown",
+    "slug": "fanny",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/be/ML_icon_Fanny.png/20px-ML_icon_Fanny.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/be/ML_icon_Fanny.png/20px-ML_icon_Fanny.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Air Superiority",
+      "description": "Air SuperiorityAbilityBUFF During flight, Fanny deals 15%-30% extra damage to enemies hit (scales with flying speed) and applies a stack of Prey Mark to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 8 energy per stack for her. The energy restoration is reduced if she hits multiple enemy heroes within a short period of time."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Tornado Strike",
+      "description": "Tornado StrikeAbilityAoETypePhysical Skill Fanny whirls her blades, dealing 320(+80%Total Physical Attack) Physical Damage to nearby enemies. 3.515"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Steal Cable",
+      "description": "Steal CableAbilityBlinkTypeCharge Fanny shoots a cable in the target direction that pulls her to the first obstacle hit. She can cast this skill again within 2s until her energy runs out. Each successive cast reduces the skill's energy cost by 2. As long as her energy is sufficient, Fanny automatically casts Tornado Strike upon hitting an enemy mid-flight. 0.017No way I'm going on foot!"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Cut Throat",
+      "description": "Cut ThroatAbilityBurst BlinkTypePhysical Skill/Blink Fanny strikes the target enemy or creep with her blades, dealing them 500(+240%Extra Physical Attack) Physical Damage. Each stack of Prey Mark on the enemy increases this damage by 20%. 35.030"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

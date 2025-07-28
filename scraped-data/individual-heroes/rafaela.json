@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Rafaela",
+    "role": "Unknown",
+    "slug": "rafaela",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/17/ML_icon_Rafaela.png/20px-ML_icon_Rafaela.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/17/ML_icon_Rafaela.png/20px-ML_icon_Rafaela.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Deity Penalization",
+      "description": "Deity PenalizationAbilityBurst Upon death, Rafaela turns into a beam of Holy Light and launches herself at her killer after a 2s delay, dealing them True Damage equal to 20% of their Max HP. The attack can be blocked by other enemy heroes. This effect won't be triggered if the killer is a non-hero enemy or if they're too far away."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Light of Retribution",
+      "description": "Light of RetributionAbilityAoE SlowTypeMagic Skill Rafaela strikes three nearest enemies with Light of Retribution, dealing them 225(+120%Total Magic Power) Magic Damage, briefly revealing their positions, and slowing them by 40% for 1.5s. Enemies hit by Light of Retribution again within 5s will take 20% extra damage (up to 3 stacks). 4.070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Holy Healing",
+      "description": "Holy HealingAbilityHEAL Speed UpTypeHeal Rafaela calls upon Holy Light, restoring 250(+50%Total Magic Power) HP for herself and the most injured allied hero around her, 100(+25%Total Magic Power) HP for other nearby allied heroes, while granting herself and nearby allied heroes 50% extra Movement Speed for 1.5s. 10.5100"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Holy Baptism",
+      "description": "Holy BaptismAbilityCC AoETypeMagic Skill Active: Rafaela unleashes the true power of Holy Light in the target direction, dealing 460(+120%Total Magic Power) Magic Damage to enemies in a line and stunning them for 1.5s. 42.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

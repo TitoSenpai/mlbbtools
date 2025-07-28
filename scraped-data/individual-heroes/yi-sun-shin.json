@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Yi Sun-shin",
+    "role": "Unknown",
+    "slug": "yi-sun-shin",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/18/ML_icon_Yi_Sun-Shin.png/20px-ML_icon_Yi_Sun-Shin.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/18/ML_icon_Yi_Sun-Shin.png/20px-ML_icon_Yi_Sun-Shin.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Heavenly Vow",
+      "description": "Heavenly VowAbilityBUFF Yi Sun-shin chooses his longbow or glaive to attack according to his distance from the target. Weapon Mastery: After each weapon swap, the next two attacks will be enhanced. The first attack deals 60%-100% Crit Damage. The second attack deals 60%-75% Crit Damage and grants Yi Sun-shin 20% Movement Speed for 1s. Each enhanced attack reduces the cooldown of Traceless by 1s. The allied base is transformed into a naval fleet. Every 180s or after respawn, a Turtle Ship is spawned at the allied base. Yi Sun-shin can board the Turtle Ship and gains 60% Movement Speed that will decay to 21% after s and enhances Traceless."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Traceless",
+      "description": "Without Turtle Ship With Turtle Ship TracelessAbilityBlink AoETypePhysical Skill/Blink Yi Sun-shin slashes forward with his glaive, dealing 150(+40%Total Physical Attack) Physical Damage. He becomes immune to CC while dashing for 1s. 12.050 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 12.0 11.0 10.0 9.0 8.0 7.0 Skill Cost 50 55 60 65 70 75 Base Damage 150 180 210 240 270 300 Dauntless FleetAbilityCC AoETypePhysical Skill/Blink Yi Sun-shin orders the Turtle Ship to charge toward the target, dealing 200(+100%Total Physical Attack) Physical Damage to the first enemy hit and nearby enemies and stunning them for 1.2s. 12.050 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 12.0 11.0 10.0 9.0 8.0 7.0 Skill Cost 50 55 60 65 70 75 Base Damage 200 240 280 320 360 400"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Blood Floods",
+      "description": "Blood FloodsAbilityAoETypePhysical Skill Without charging: Yi Sun-shin slashes swiftly with his glaive, dealing 240(+80%Total Physical Attack) Physical Damage. Charging: Yi Sun-shin shoots forward a powerful arrow, dealing 240(+80%Total Physical Attack) Physical Damage to the target. The arrow damage scales with the charging duration, capped at 200%. This damage decays with the number of enemies hit, and can't go below 40%. His Movement Speed is reduced by 20% while charging. Yi Sun-shin gains Weapon Mastery right away upon skill cast. 11.085"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Mountain Shocker",
+      "description": "Mountain ShockerAbilityAoE BUFFTypePhysical Skill Passive: Increases the damage of Heavenly Vow by 13%/5%. Active: Yi Sun-shin commands the naval fleet to launch 3 waves of precise cannon attacks to all enemy heroes. Each wave deals 150(+50%Total Physical Attack) Physical Damage. (When a target is hit by multiple waves, a maximum of 150% damage will be dealt.) 72.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

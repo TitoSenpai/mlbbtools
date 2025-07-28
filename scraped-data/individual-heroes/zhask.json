@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Zhask",
+    "role": "Unknown",
+    "slug": "zhask",
+    "image_url": "https://liquipedia.net/commons/images/thumb/c/c7/ML_icon_Zhask.png/20px-ML_icon_Zhask.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/c/c7/ML_icon_Zhask.png/20px-ML_icon_Zhask.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Decimation",
+      "description": "DecimationAbilityAoE Upon death, Zhask summons a frenzied Nightmaric Spawn on the spot, which gradually loses HP over time until death."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Nightmaric Spawn",
+      "description": "Nightmaric SpawnAbilitySummonTypeMagic Skill Zhask summons Nightmaric Spawn that enjoys 50% of his Attributes and has extra 20 Magic Power. Nightmaric Spawn will automatically attack nearby enemies, each attack dealing 120(+120%Magic Damage) Magic Damage. Every 3 attacks launch Death Ray at a target, dealing 90(+20%Magic Damage) Magic Damage and slowing them by up to 75% for 0.6s. If Zhask is too far away from Nightmaric Spawn, it will disappear. Fusion Enhanced: The damage of Nightmaric Spawn is increased to 200%, and it can be repositioned. 11.0100"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Mind Eater",
+      "description": "Mind EaterAbilityCC AoETypeMagic Skill Zhask fires penetrating mental missile in the designated direction, dealing 300(+100%Total Magic Power) Magic Damage to enemies along the way, after which Nightmaric Spawn will cast Mind Eater once. If an enemy is hit by both, it will be stunned for 0.5s. Fusion Enhanced: The damage of Zhask and Nightmaric Spawn is fused together, dealing 540(+180%Total Magic Power) Magic Damage. 8.050"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Dominator's Descent",
+      "description": "Dominator's DescentAbilityMorph BUFF Zhask combines himself with the Nightmaric Spawn, greatly increasing its attributes while enhancing his skills. The Nightmaric Spawn also recovers HP based on the damage dealt by its Basic Attacks. Use Again: Zhask leaves the Nightmaric Spawn and loses the skill enhancement effect. 60.0200"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

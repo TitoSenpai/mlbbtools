@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Atlas",
+    "role": "Unknown",
+    "slug": "atlas",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/d9/ML_icon_Atlas.png/20px-ML_icon_Atlas.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/d9/ML_icon_Atlas.png/20px-ML_icon_Atlas.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Frigid Breath Ability TypeBuff Debuff Atlas generates Frigid Breath around him for 5s each time he casts a skill. Enemies affected by Frigid Breath will have their Movement Speed gradually reduced over 3s, after which they'll be frozen for 0.5s.Atlas gains 16-30 extra Physical & Magic Defense when Frigid Breath is present."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Annihilate Ability TypeAOE DamageMagic Base Cooldown: 7.0 Base Mana Cost: 60 Atlas smashes the ground and causes 3 explosions. Each explosion deals 215 (+60%Total Magic Power) Magic Damage to enemies.Ejected State: If Atlas has ejected from his Mecha Sentry, both himself and his Mecha Sentry will cast Annihilate."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Perfect Match Ability TypeMobility CC DamageMagic Base Cooldown: 12.0 Base Mana Cost: 75 Atlas enters Ejected State, gaining 40% Movement Speed and immunity to Slowing Effects. In this state, the Mecha Sentry will follow the pilot at an increasing speed (can only be controlled by Suppression). Once they meet, Atlas will return to the Mecha, dealing 320 (+80%Total Magic Power) Magic Damage to enemies nearby and stunning them for 1s.Ejected State: Atlas and his Mecha share the same HP bar and reduce 50% of the damage taken in this state."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Fatal Links Ability TypeCC AOE DamageMagic Base Cooldown: 55.0 Base Mana Cost: 130 Atlas hurls chains around and starts to channel (can only be interrupted by suppressing), dealing 225 (+75%Total Magic Power) Magic Damage to enemy heroes hit and slowing them by 40% for 3s.Use this skill again while channeling: Atlas will drag the targets toward him and plunk them down on the designated location, dealing 360 (+180%Total Magic Power) Magic Damage.Use this skill in Ejected State: The Mecha Sentry will return to Atlas immediately, but the stun effect will be replaced by 40% Slowing Effect."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

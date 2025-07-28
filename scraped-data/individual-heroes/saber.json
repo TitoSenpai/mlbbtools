@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Saber",
+    "role": "Unknown",
+    "slug": "saber",
+    "image_url": "https://liquipedia.net/commons/images/thumb/0/0f/ML_icon_Saber_2020.png/20px-ML_icon_Saber_2020.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/0/0f/ML_icon_Saber_2020.png/20px-ML_icon_Saber_2020.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Enemy's Bane",
+      "description": "Enemy's BaneAbilityDebuff Saber's attacks reduce enemies' Physical Defense by 3-8 for 5s on hit (up to 5 stacks)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Orbiting Swords",
+      "description": "Orbiting SwordsAbilityAoE BUFFTypePhysical Skill Saber releases 5 swords that orbit around him and deal 80(+30%Extra Physical Attack) Physical Damage to nearby enemies on hit. The swords will retract back to him after a while. When the swords are present, Saber sends a sword toward his target on each attack, dealing 210(+60%Extra Physical Attack) extra Physical Damage to the target and 50% of the damage to other enemies it passes through (damage against minions is reduced to 50% ). Each attack also reduces the cooldown of Charge by is. 9.075"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Charge",
+      "description": "ChargeAbilityBlink AoETypePhysical Skill/Physical Basic ATK Saber dashes in the target direction, dealing 75(+50%Extra Physical Attack) Physical Damage to enemies along the way while enhancing his next Basic Attack. The enhanced Basic Attack deals 75(+120%Total Physical Attack) Physical Damage and slows the target by 60% for 1s. 12.070"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Triple Sweep",
+      "description": "Triple SweepAbilityBurst CCTypePhysical Skill/Blink Saber charges at the target enemy hero, knocking them airborne for 1.2s and striking them 3 times over the duration. The first two strikes deal 120(+100%Extra Physical Attack) Physical Damage each, while the third strike deals 240(+200%Extra Physical Attack) Physical Damage. 44.0100"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

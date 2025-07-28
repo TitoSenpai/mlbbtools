@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Leomord",
+    "role": "Unknown",
+    "slug": "leomord",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/de/ML_icon_Leomord_2022.png/20px-ML_icon_Leomord_2022.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/de/ML_icon_Leomord_2022.png/20px-ML_icon_Leomord_2022.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "The Oath Keeper",
+      "description": "The Oath KeeperAbilityBUFF Leomord's Basic Attacks are guaranteed to critically strike against enemies below 35% Max HP, dealing 200% damage."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Momentum",
+      "description": "MomentumAbilityAoE SlowTypePhysical Skill Leomord gains a 150 (+150%Total Physical Attack) shield and begins channeling, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to 500 (+180%Total Physical Attack) Physical Damage to enemies hit (scales with channel time) and slowing them by 40% for 1s. Leomord can cast this skill again to actively interrupt the channeling. 6.0"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Decimation Assault",
+      "description": "Decimation AssaultAbilityBlink SlowTypePhysical Skill/Blink Leomord quickly charge towards a designated direction, dealing 300 (+50%Total Physical Attack) Physical Damage to enemies near his path and destination and slowing them by 30% for 1s. 14.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Phantom Steed",
+      "description": "Phantom SteedAbilitySummon MorphTypePhysical Skill Leomord summons Barbiel to rush into the battlefield and knock back all enemies in its way, dealing 350 (+100%Total Physical Attack) Physical Damage to enemies on the path. If Barbiel comes in contact with Leomord, they will enter a mounted state. Mounted State: Leomord gains a brand-new set of skills. He can cast his Basic Attack in a circular area and even while moving. Additionally, he gains extra 60 Movement Speed and 40 Physical & Magic Defense. 55.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

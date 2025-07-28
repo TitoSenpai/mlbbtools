@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Eudora",
+    "role": "Unknown",
+    "slug": "eudora",
+    "image_url": "https://liquipedia.net/commons/images/thumb/7/79/ML_icon_Eudora.png/20px-ML_icon_Eudora.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/7/79/ML_icon_Eudora.png/20px-ML_icon_Eudora.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Superconductor",
+      "description": "SuperconductorAbilityBUFF Eudora's skills inflict Superconductor for 3s on hit and can trigger additional effects against enemies affected by Superconductor."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Forked Lightning",
+      "description": "Forked LightningAbilityAoETypeMagic Skill Eudora casts fork lightning in a target direction, dealing 350(+150%Total Magic Power) Magic Damage to enemies in a fan-shaped area. Enemies affected by Superconductor will take 190(+30%Total Magic Power) extra Magic Damage after a short delay. 7.065"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ball Lightning",
+      "description": "Ball LightningAbilityCC DamageTypeMagic Skill Eudora hurls an orb of lightning at the target enemy, dealing them 350(+80%Total Magic Power) Magic Damage, stunning them for 1.2s, and reducing their Magic Defense by 10 for 1.8s. If the enemy is affected by Superconductor, the lightning orb will bounce to up to 3 nearby enemies, dealing them 175(+40%Total Magic Power) Magic Damage and stunning them for 0.6s (prioritizes enemy heroes). 11.090"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Thunder's Wrath",
+      "description": "Thunder's WrathAbilityBurstTypeMagic Skill Eudora calls down a blast of lightning on the target enemy, dealing them 480(+180%Total Magic Power) Magic Damage. If the enemy is affected by Superconductor, dark clouds will form over their head and send down an extra lightning strike on the area below after a 0.8s delay, dealing 440(+150%Total Magic Power) Magic Damage to enemies within and 360(+150%Total Magic Power) Magic Damage to nearby enemies. 32.0130"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

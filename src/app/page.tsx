@@ -81,7 +81,7 @@ export default function Home() {
           <Card className="hover:shadow-lg transition-shadow">
             <CardHeader>
               <BarChart3 className="h-12 w-12 text-blue-600 mb-4" />
-              <CardTitle>Admin Dashboard</CardTitle>
+              <CardTitle>Dashboard</CardTitle>
               <CardDescription>
                 Comprehensive dashboard with analytics, user management, and content control
               </CardDescription>

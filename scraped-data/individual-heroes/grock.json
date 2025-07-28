@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Grock",
+    "role": "Unknown",
+    "slug": "grock",
+    "image_url": "https://liquipedia.net/commons/images/thumb/2/28/ML_icon_Grock.png/20px-ML_icon_Grock.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/2/28/ML_icon_Grock.png/20px-ML_icon_Grock.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Earthen Force Ability TypeBuff When near a wall or turret, Grock gains 10% Movement Speed, 15 (+8*Hero Level) Physical Defense, and 18 (+4.8*Hero Level) HP Regen. Each point of Grock's extra Physical Attack increases his Physical Defense by 0.5."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Power of Nature Ability TypeAOE Slow DamagePhysical Base Cooldown: 5.0 Base Mana Cost: 50 Grock charges his weapon with the Power of Nature and then launches a powerful sweep, dealing 300 (+160%Total Physical Attack) Physical Damage to nearby enemies and slowing them by 40% for 2s. Damage dealt will increase the longer the skill is channeled, up to 250%. Using Power of Nature near a wall will grant Control Immunity."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Guardian's Barrier Ability TypeCC AOE DamagePhysical Base Cooldown: 14.0 Base Mana Cost: 80 Grock conjures a stone wall at the target location, dealing 300 (+50%Total Physical Attack) Physical Damage to nearby enemies. The stone wall lasts 5s and can block enemies who try to pass through."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Wild Charge Ability TypeMobility AOE DamagePhysical Base Cooldown: 46.0 Base Mana Cost: 100 Grock charges in the target direction, dealing 360 (+75%Total Physical Attack) Physical Damage to enemies in his path and knocking them airborne. If he hits a wall or turret during the charge, he deals an additional 360 (+90%Total Physical Attack) Physical Damage to nearby enemies and stuns them for 1.8s. The brave fear nothing."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

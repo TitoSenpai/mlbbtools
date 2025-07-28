@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Pharsa",
+    "role": "Unknown",
+    "slug": "pharsa",
+    "image_url": "https://liquipedia.net/commons/images/thumb/6/68/ML_icon_Pharsa.png/20px-ML_icon_Pharsa.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/6/68/ML_icon_Pharsa.png/20px-ML_icon_Pharsa.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Spiritual Unity",
+      "description": "Spiritual UnityAbilityDamage Slow Every 8s, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing 8% extra Magic Damage equal to the target's Max HP (+ 1% for every 200 Magic Power owned) and slowing them by 60% for 1s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Curse of Crow",
+      "description": "Curse of CrowAbilityCC DamageTypeMagic Skill Pharsa casts a blast of magic at the target location, dealing 300(+120%Total Magic Power) Magic Damage to enemies hit and marking them for 4s. Pharsa's subsequent attack against marked enemies will consume the mark and stun them for 1s. 8.060"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Energy Impact",
+      "description": "Energy ImpactAbilityAoETypeMagic Skill Pharsa releases magic energy in the target direction, dealing 425(+145%Total Magic Power) Magic Damage to enemies hit. 5.070"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Feathered Air Strike",
+      "description": "Feathered Air StrikeAbilityBurstTypeMagic Skill Pharsa flies into mid-air for 8s and launches a round of air raid on the target area, dealing 570(+160%Total Magic Power) Magic Damage to enemies within. Use Again: Pharsa launches another round of air raid on the target area, dealing the same amount of damage. She can cast this skill up to 4 times within the duration (including the initial cast). 42.0120"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

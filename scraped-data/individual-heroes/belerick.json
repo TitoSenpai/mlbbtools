@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Belerick",
+    "role": "Unknown",
+    "slug": "belerick",
+    "image_url": "https://liquipedia.net/commons/images/thumb/c/c6/ML_icon_Belerick.png/20px-ML_icon_Belerick.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/c/c6/ML_icon_Belerick.png/20px-ML_icon_Belerick.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Deadly Thorns Ability TypeBuff DamageMagic For every 50 damage inflicted upon Belerick, he has a 25% chance to shoot the nearest enemy unit, dealing Magic Damage equal to 55(+5*Hero Level) plus 1.8% of his Max HP (scales with level). This attack can be triggered once every 0.4s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Ancient Seed Ability TypeCC AOE DamageMagic Base Cooldown: 8.0 Base Mana Cost: 60 Belerick releases vines in a designated direction, dealing 200 (+50%Total Magic Power) Magic Damage to enemies along the path and slowing them by 25%. Ancient Seeds left by the vines will erupt into thorns after 1s, dealing 200 (+50%Total Magic Power) Magic Damage to enemies on the path and taunting them for 1.2s. Deals 80% extra damage against Minions."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Nature's Strike Ability TypeSpeed Up Heal DamageMagic Base Cooldown: 14.0 Base Mana Cost: 60 Belerick increases his Movement Speed by 80% and enhances his next Basic Attack. (The Movement Speed gained will decrease in 2s.) This enhanced Basic Attack deals 300 (+60%Total Magic Power) Magic Damage and slows the target by 60% for 1.4s. Belerick also recovers HP equal to 240 plus 10% of his lost HP. Each time Deadly Thorns is triggered, reduce the cooldown of this skill by 1s."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Wrath of Dryad Ability TypeCC AOE DamageMagic Base Cooldown: 50.0 Base Mana Cost: 150 Belerick conjures spreading vines around him, dealing 100 (+30%Total Magic Power) Magic Damage to enemies in the area 4 times, taunting and slowing them for 1.5s."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

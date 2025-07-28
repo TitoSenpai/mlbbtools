@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Chang'e",
+    "role": "Unknown",
+    "slug": "change",
+    "image_url": "https://liquipedia.net/commons/images/thumb/5/55/ML_icon_Chang%27e.png/20px-ML_icon_Chang%27e.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/5/55/ML_icon_Chang%27e.png/20px-ML_icon_Chang%27e.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Trouble Maker",
+      "description": "Trouble MakerAbilityDebuff Each time Chang'e deals damage to an enemy, she leaves a mark on them. Each mark increases her next skill's damage to the enemy by 2% (up to 40%)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Starmoon Shockwave",
+      "description": "Starmoon ShockwaveAbilityAoE SlowTypeMagic Skill Chang'e sends an energy sphere in the target direction, dealing 300(+120%Total Magic Power) Magic Damage to enemies in its path and slowing them by 20% for 1.5s. Crescent Moon: The Crescent Moon sends 4 extra energy spheres along with Chang'e's, each dealing 20% damage and slowing enemies hit. The Slowing Effect can stack (up to 40%). 7.070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Crescent Moon",
+      "description": "Crescent MoonAbilityBUFF Shield Chang'e summons the Crescent Moon, gaining a permanent 300(+150%Total Magic Power) shield and 10% extra Movement Speed until the shield is broken. She also gains 50% extra Movement Speed that decays over 2.5s on each skill cast. The Crescent Moon will also enhance Chang'e's skills and Basic Attacks. Enhanced Basic Attack: Chang'e's Basic Attack deals 40(+30%Total Physical Attack)(+70%Total Magic Power) extra Magic Damage. 12.060"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Meteor Shower",
+      "description": "Meteor ShowerAbilityBurstTypeMagic Skill Chang'e fires 30 Meteors in the target direction over 4s, each dealing 50(+30%Total Magic Power) Magic Damage to the first enemy hit. This skill deals 100% extra damage to minions and creeps. Chang'e also gains 20% extra Movement Speed for the duration. Crescent Moon: The Crescent Moon fires extra Meteors along with Chang'e's, each dealing 33% damage. 36.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

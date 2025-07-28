@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Khufra",
+    "role": "Unknown",
+    "slug": "khufra",
+    "image_url": "https://liquipedia.net/commons/images/thumb/6/6e/ML_icon_Khufra.png/20px-ML_icon_Khufra.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/6/6e/ML_icon_Khufra.png/20px-ML_icon_Khufra.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Spell Curse Ability TypeHeal Damage DamageMagic Khufra activates the Spell Curse left by Esmeralda every 12s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals Magic Damage equal to (+120%Total Physical Attack) plus 6% of the target's Max HP. He also slows the target by 30% for 1.5s and heals 8% of his Max HP on hit. Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Tyrant's Revenge Ability TypeMobility CC DamagePhysical Base Cooldown: 15.0 Base Mana Cost: 80 Khufra pulls the bandage on his arms to launch himself in the specified direction, dealing Physical Damage equal to 50 plus 7 (+1.5%Total Physical Attack)% of his Max HP to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing Physical Damage equal to 50 plus 7 (+1.5%Total Physical Attack)% of his Max HP to enemies nearby and then knocking them in the air for up to 1.1s."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Bouncing Ball Ability TypeSlow Buff DamageMagic Base Cooldown: 10.0 Base Mana Cost: 70 Khufra uses bandage to wrap himself into a magic bouncing ball, increasing his own Physical & Magic Defense by 30%. Enemies trying to use blink skills to move across Khufra will be knocked airborne. Each time the magic bouncing ball hits the ground, it will deal Magic Damage equal to 50 plus 3 (+2%Total Physical Attack)% of his Max HP to enemies nearby and slow them by 80%. Lasts 0.2s."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Tyrant's Rage Ability TypeCC AOE DamagePhysical Base Cooldown: 50.0 Base Mana Cost: 150 Khufra pulls back all enemy targets around him toward his front, dealing 300 (+100%Total Physical Attack) Physical Damage and slowing them down for 1.25s. If the enemies are knocked against walls, extra Physical Damage equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed. Let those who comply with me thrive and those who resist me perish"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,39 @@
+{
+  "basic_info": {
+    "name": "Alpha",
+    "role": "Unknown",
+    "slug": "alpha",
+    "image_url": "https://liquipedia.net/commons/images/thumb/c/c1/ML_icon_Alpha_2021.png/20px-ML_icon_Alpha_2021.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/c/c1/ML_icon_Alpha_2021.png/20px-ML_icon_Alpha_2021.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Beta, Advance! Ability TypeDamage Slow DamageTrue When Alpha uses a skill, Beta will summoned to attack. Enemies that are hit by Beta 2 time(s) will be Locked On.Locked On: After Alpha deals damage to the target, Beta will fire a laser at them, dealing 80 (+80%Extra Physical Attack) (+8*Hero Level) True Damage and briefly applying a powerful slow effect."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Rotary Impact Ability TypeAOE Slow DamagePhysical Base Cooldown: 4.0 Base Mana Cost: 50 Alpha unleashes an energy wave in the target direction, dealing 100 (+90%Extra Physical Attack) Physical Damage to enemies in its path and slowing them by 40% for 1s.Beta then strafes enemies along the same path, dealing 60 (+30%Extra Physical Attack) True Damage."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Force Swing Ability TypeAOE Heal DamagePhysical Base Cooldown: 6.0 Base Mana Cost: 45 After a short delay, Alpha swings his blade in the target direction, dealing 180 (+100%Total Physical Attack) Physical Damage to enemies in a fan-shaped area and restoring 40 (+30%Extra Physical Attack) HP for each enemy hit.Beta then strafes enemies in the same area, dealing 60 (+30%Total Physical Attack) True Damage."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Spear of Alpha Ability TypeMobility CC DamagePhysical Base Cooldown: 20.0 Base Mana Cost: 70 Beta dives to the target location, dealing 100 (+20%Extra Physical Attack) Physical Damage to enemies hit and stunning them for 1s. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing 250 (+100%Extra Physical Attack) Physical Damage and slowing the enemies by 40% for 1.5s.Beta then attacks the same area 5 times, dealing 15 (+30%Extra Physical Attack) True Damage each time."
+    }
+  ],
+  "lore": {
+    "relationships": []
+  },
+  "patches": [],
+  "esports_stats": []
+}

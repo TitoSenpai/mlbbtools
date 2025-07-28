@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Granger",
+    "role": "Unknown",
+    "slug": "granger",
+    "image_url": "https://liquipedia.net/commons/images/thumb/9/99/ML_icon_Granger_2024.png/20px-ML_icon_Granger_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/9/99/ML_icon_Granger_2024.png/20px-ML_icon_Granger_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Capriccio Ability Type Buff Granger's unique Demon Hunting Gun and Cannon are powered by Demonic Energy. Both his weapons have a starting Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each Minion / Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6/6, and instantly restore their Energy by 5%/5%, respectively. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy.Every 1% CD Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy cost is not affected by Energy Cost Reductions."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Rhapsody Ability TypeBurst DamagePhysical Base Cooldown: 0.3 Granger rapidly fires 6 shot(s) with his Gun, with each shot dealing 60 (+50% Total Physical Attack) Physical Damage and consuming 70 Gun Energy. The last bullet is guaranteed to Crit. Each bullet deals an additional 70 damage to Creeps and Minions. While firing, Granger's Movement Speed is increased by 15%.Granger stops firing when he runs out of Energy, or when the skill is cast again. Rhapsody has a brief cooldown and can be cast once his Gun Energy is over 420."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Rondo Ability TypeMobility Buff Base Cooldown: 12.0 Grnager uses his Demon Hunter agility to dash in the target direction, instantly restoring 15% Energy for his Gun. Rondo can be cast while channeling Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5s."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Death Sonata Ability TypeBurst Slow DamagePhysical Base Cooldown: 0.6 Base Energy Cost: 250 Granger fires his Cannon in the target direction, dealing 250 (+80% Total Physical Attack) Physical Damage to the first enemy hero hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration. Granger can roll in a target direction after each shot.Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

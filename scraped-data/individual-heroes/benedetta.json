@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Benedetta",
+    "role": "Unknown",
+    "slug": "benedetta",
+    "image_url": "https://liquipedia.net/commons/images/thumb/d/d0/ML_icon_Benedetta.png/20px-ML_icon_Benedetta.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/d/d0/ML_icon_Benedetta.png/20px-ML_icon_Benedetta.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Elapsed Daytime",
+      "description": "Elapsed DaytimeAbilityBlink Damage When holding down the Basic Attack button, Benedetta enters the Swordout state and keeps gathering the Sword Intent. If releasing the Basic Attack button after the Sword Intent is fully charged, Benedetta will use Swordout Slash in the direction she's facing and dash forward, dealing (+210%Total Physical Attack) Physical Damage (identified as Skill Damage and decays to 50% on minions and creeps) to enemies on the path. Only when Benedetta is in Swordout state and her Sword Intent is fully charged by holding down the Basic Attack button, she can release the Swordout Slash. Benedetta can also gain Sword Intent when dealing damage via Basic Attack and Skills."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Phantom Slash",
+      "description": "Phantom SlashAbilityAoE BlinkTypePhysical Skill/Blink Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200(+70%Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s. Meanwhile, Benedetta dashes forward to slash, dealing 50(+80%Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.) 9.055"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "An Eye for An Eye",
+      "description": "An Eye for An EyeAbilityBlink BUFFTypePhysical Skill/Blink Benedetta raises her weapon to defend, gaining control immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300(+80%Total Physical Attack) Physical Damage. If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s. 15.0100"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Alecto: Final Blow",
+      "description": "Alecto: Final BlowAbilityBurst BlinkTypePhysical Skill/Blink Benedetta clenches Alecto and slashes forward after a short delay (invincible while dashing), slowing all targets on the path by 70% for 1s. After dashing, Benedetta detonates the Sword Intent on the path, strangling the enemy with the Sword Intent for 2.5s, dealing 120(+85%Extra Physical Attack) Physical Damage and slowing the enemy by 20% every 0.2s. 45.0110"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

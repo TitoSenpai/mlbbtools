@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Lunox",
+    "role": "Unknown",
+    "slug": "lunox",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/17/ML_icon_Lunox.png/20px-ML_icon_Lunox.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/17/ML_icon_Lunox.png/20px-ML_icon_Lunox.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Dreamland Twist",
+      "description": "Dreamland TwistAbilityBUFF Lunox has lost the sense of real time and cannot benefit from Cooldown Reduction. When Power of Chaos is enhanced, 80% of her Cooldown Reduction will be converted into Magic Penetration. When Power of Order is enhanced, 120% of her Cooldown Reduction will be converted into Physical and Magic Defense."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Starlight Pulse",
+      "description": "Starlight PulseAbilityAoE HEALTypeMagic Skill/Heal Lunox summons a rain of starlight upon nearby enemies, dealing 200(+110%Total Magic Power) Magic Damage and recovering 60(+20%Total Magic Power) HP. The recovering effect doubles when the skill hits enemy heroes. Gains one stack of Power of Order after use. 2.060"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Chaos Assault",
+      "description": "Chaos AssaultAbilityDamage SlowTypeMagic Skill Lunox unleashes Chaos Energy forward, dealing Magic Damage equal to 200(+120%Total Magic Power) plus 2.5% of their Max HP to targets hit (when the target is a creep, they take an additional 100% Max HP as damage) and reducing their Movement Speed by 10% for 1s. Gains one stack of Power of Chaos after use. 2.050"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Order and Chaos",
+      "description": "Order and ChaosAbilitySlow AoETypeMagic Skill/Blink Lunox is twisted by the powers of Chaos and Order. Every time she uses her powers, they become stronger. When she uses the power of Order, she gains Brilliance and deals continuous damage in an invulnerable state. When she uses the power of Chaos, she gains Darkening and can blink in a designated direction, canceling the CD of \"Chaos Assault\". 28.0120"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Estes",
+    "role": "Unknown",
+    "slug": "estes",
+    "image_url": "https://liquipedia.net/commons/images/thumb/4/4b/ML_icon_Estes.png/20px-ML_icon_Estes.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/4/4b/ML_icon_Estes.png/20px-ML_icon_Estes.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Scripture of the Moon Elf",
+      "description": "Scripture of the Moon ElfAbilityBUFF Code of Moon Elves will charge energy into Estes slowly. When it stacks up to 100, it will improve his next Basic Attack, dealing 250(+100%Total Physical Attack)(+150% Total Magic Power) Magic Damage to the target and 125(+50%Total Physical Attack)(+75%Total Magic Power) Magic Damage enemies around it and slowing them by 60% for 1.5s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Moonlight Immersion",
+      "description": "Moonlight ImmersionAbilityHEAL BUFFTypeHeal Estes restores 250(+70%Total Magic Power) HP for the target hero immediately, and links himself to the target for 3s, slowly restoring 325(+30%Total Magic Power) HP for the target. Linking with an ally will also increase his own Physical Attack and Magic Power (scales with the number of linked heroes and their attributes), his Movement Speed by 15%, and Code of Moon Elves' recharge speed. Being too far from the target will break the link. 11.0110"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Domain of Moon Goddess",
+      "description": "Domain of Moon GoddessAbilitySlow AoETypeMagic Skill Estes drops a flood of moonlight upon the designated area, dealing 350(+70%Total Magic Power) Magic Damage to enemy units within it. Afterwards, it turns to a domain of Moon Goddess. Enemies will be slowed by 90% for 1.5s when they touch the barrier of the domain area. (This Slowing Effect will disappear slightly with the time.) 12.080"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Blessing of Moon Goddess",
+      "description": "Blessing of Moon GoddessAbilityHEAL BUFFTypeHeal Estes casts enhanced \"Moonlight Immersion\" immediately to all allied heroes nearby. Within the next 8s, \"Moonlight Immersion\" will be enhanced, and Estes will regenerate 1260(+105%Total Magic Power) HP continuously. 55.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

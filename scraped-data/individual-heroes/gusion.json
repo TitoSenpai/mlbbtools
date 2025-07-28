@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Gusion",
+    "role": "Unknown",
+    "slug": "gusion",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/b2/ML_icon_Gusion_2022.png/20px-ML_icon_Gusion_2022.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/b2/ML_icon_Gusion_2022.png/20px-ML_icon_Gusion_2022.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Dagger Specialist",
+      "description": "Dagger SpecialistAbilityBUFF HEAL Each cast allows his Basic Attack to deal additional damage equal to 3% of the target's missing HP and restore 50 (+25% Total Magic Power) HP, up to 4 stacks."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Sword Spike",
+      "description": "Sword SpikeAbilityDamage BlinkTypeMagic Skill/Blink Gusion throws a dagger in the target direction, dealing 200(+50%Total Magic Power) Magic Damage to the first enemy hit and marking them. Use Again: Gusion moves behind the marked enemy, dealing them 200(+100%Total Magic Power) Magic Damage. 9.070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Shadowblade Slaughter",
+      "description": "Shadowblade SlaughterAbilityAoE SlowTypeMagic Skill Gusion throws a volley of daggers in the target direction, each dealing 110(+50%Total Magic Power) Magic Damage to enemies hit and slowing them by 6% for 2s (multiple daggers' slow effects can stack, up to 30%). Use Again: Gusion recalls the daggers, each dealing 65(+40%Total Magic Power) Magic Damage to enemies in its path. 11.065"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Incandescence",
+      "description": "IncandescenceAbilityBlink BUFFTypeBlink Gusion dashes to the target location, resetting the cooldown of Sword Spike and Shadowblade Slaughter. If Shadowblade Slaughter was cast once before the reset, Gusion can throw another five daggers on his next Shadowblade Slaughter cast, and recall a total of ten daggers afterward. Use Again: Gusion dashes a short distance in the target direction. 28.0100"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

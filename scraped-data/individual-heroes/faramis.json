@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Faramis",
+    "role": "Unknown",
+    "slug": "faramis",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/bf/ML_icon_Faramis_2022.png/20px-ML_icon_Faramis_2022.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/bf/ML_icon_Faramis_2022.png/20px-ML_icon_Faramis_2022.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Vicious Retrieval",
+      "description": "Vicious RetrievalAbilityBUFF Every 4s, Faramis' next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore 100(+50%Total Magic Power) HP and gain 2 extra Magic Power (up to 40 stacks). Upon death, he consumes the absorbed soul fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%). Enemies that die around Faramis also have a chance to drop soul fragments."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Shadow Stampede",
+      "description": "Shadow StampedeAbilityBUFF CCTypeMagic Skill Faramis enters the Shadow state for 3s, gaining 70% extra Movement Speed, 50 extra Physical & Magic Defense, increased soul fragment absorption range, and the ability to move through terrain. Enemy heroes that come into contact with Faramis in this state are dealt 250(+60%Total Magic Power) Magic Damage and applied with a Nether Mark. Each enemy hero hit also reduces this skill's cooldown by 20%. Upon leaving the Shadow state, Faramis pulls all the marked enemy heroes toward him, dealing them 250(+60%Total Magic Power) Magic Damage. Use Again: Faramis leaves the Shadow state early and pulls marked enemies toward him. 18.070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ghost Bursters",
+      "description": "Ghost BurstersAbilityAoE BurstTypeMagic Skill Faramis gathers Nether energy in a fan-shaped area ahead, dealing 300(+108%Total Magic Power) Magic Damage to enemies within. The energy will then split and bounce to nearby enemies, dealing 200(+72%Total Magic Power) Magic Damage (splits up to 3 times on enemy hero hits and 1 time on non-enemy hero hits). 6.075"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Nether Realm",
+      "description": "Nether RealmAbilityDeath Immune BUFF Faramis turns his surroundings into the Nether Realm for 6s, granting affected allied heroes (including himself) 600 plus 10(+5%Total Magic Power)% extra HP and 50% extra Movement Speed for 1s. When the extra HP is depleted, the hero will have all debuffs on them removed and enter a brief Resurrection state, becoming unable to move or attack but immune to damage for 1.3s. 80.0150Ultimate: Pain, destruction, death, rebirth! Enjoy the process!"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

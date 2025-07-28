@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Ixia",
+    "role": "Unknown",
+    "slug": "ixia",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/1a/ML_icon_Ixia.png/20px-ML_icon_Ixia.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/1a/ML_icon_Ixia.png/20px-ML_icon_Ixia.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Siphon Starlium",
+      "description": "Siphon StarliumAbilityDamage HEAL Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack will consume the stacks and be replaced with Siphon Starlium, dealing (150% Total Physical Attack) (+200*Lifesteal) plus (10*Hero Level) Physical Damage to the target. Ixia recovers HP equal to the damage dealt by Siphon Starlium (only 20(+100*Lifesteal)% against non-hero units). Siphon Starlium can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot critically strike. Ixia's Basic Attacks cannot trigger Lifesteal."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Dual Beam",
+      "description": "Dual BeamAbilityBurst Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 175 (+80% Total Physical Attack) Physical Damage to enemies in a rectangular area and slowing enemy heroes by 40%. Upon hitting an enemy hero, Ixia also gains 40% Movement Speed for 2s. Enemies hit by both beams will take double damage. 8.040"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Star Helix",
+      "description": "Star HelixAbilityCC Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies, and pulling enemies in range to the center line after a short delay and dealing 200 (+60% Total Physical Attack) Physical Damage. 11.075"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Full Barrage",
+      "description": "Full BarrageAbilityAoE Ixia reassembles her weapon into 6 smaller weapons and enters the Barrage state for 5s. Ixia cannot move in this state, but her Basic Attacks and skills can hit enemies in a large fan-shaped area in front of her. In this state, Ixia's Attack Speed is increased by 50%, her Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and the damage of Siphon Starlium is increased by 60. 48.075"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

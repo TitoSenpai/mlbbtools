@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Ling",
+    "role": "Unknown",
+    "slug": "ling",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/8e/ML_icon_Ling_2024.png/20px-ML_icon_Ling_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/8e/ML_icon_Ling_2024.png/20px-ML_icon_Ling_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Cloud Walker",
+      "description": "Cloud WalkerAbilityBUFF Ling's superb Lightness Skill allows him to leap among walls. He gains 4 extra Lightness Points per second when he's on a wall and 5 extra Lightness Points each time he deals damage. Ling gains 2 times Crit Chance from all sources but only has 150% Crit Damage."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Finch Poise",
+      "description": "Finch PoiseAbilityBlink BUFF Passive: Ling's Critical Chance is permanently increased by 2.5%. Active: Ling casts his Lightness Skill, leaping onto the designated wall, entering half-stealth state, restoring Lightness Points more quickly and gaining 30% Movement Speed. If Ling receives damage, he will leave the half-stealth state. If he is controlled, he will fall onto the ground and be slowed by 30% for 2s. When using this skill to jump from a wall to another, it will reset the Cooldown and refresh the half-stealth state. 2030"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Defiant Sword",
+      "description": "Defiant SwordAbilityDamage BlinkTypePhysical Basic ATK/Blink Ling charges in the target direction and stabs nearby enemies, dealing them 250 (+33% Total Physical Attack) Physical Damage. If Ling casts this skill when he's on the wall, he'll dash to the target location on the ground, dealing 250 (+33% Total Physical Attack) Physical Damage to enemies in the area and slowing them by 30% for 1.5s. If this attack critically strikes, the enemies will be slowed by an extra 45% for 0.75s. Defiant Sword is regarded as Basic Attack, can trigger attack effects, and restores 35 HP for Ling each time it hits an enemy. 2.540"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Tempest of Blades",
+      "description": "Tempest of BladesAbilityBurst CCTypePhysical Skill Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5s. He can move freely when in the air. He then lands on the ground, dealing 250 (+100% Total Physical Attack) Physical Damage to enemies in the area, knocking those in the center airborne for 1s, and creating a Sword Field for 8s. Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of Finch Poise by 4s, reset the cooldown of Defiant Sword, and gain 25 Lightness points. 52.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

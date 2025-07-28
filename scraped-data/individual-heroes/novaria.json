@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Novaria",
+    "role": "Unknown",
+    "slug": "novaria",
+    "image_url": "https://liquipedia.net/commons/images/thumb/f/fe/ML_icon_Novaria.png/20px-ML_icon_Novaria.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/f/fe/ML_icon_Novaria.png/20px-ML_icon_Novaria.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Star Trail",
+      "description": "Star TrailAbilityBUFF Astral Spheres summoned by Novaria will continuously slow nearby enemies by 20%. When an Astral Sphere explodes, it deals Magic Damage equal to 260 (+50% Total Magic Power) plus 4% of the enemy's Max HP (this damage scales with skill level). When Astral Sphere hits an enemy, it will grant vision of them."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Astral Meteor",
+      "description": "Astral MeteorAbilitySlow AoE Novaria summons an Astral Sphere at the target location, continuously dealing 75 (+25% Total Magic Power) Magic Damage to nearby enemies. After 2s, the sphere will explode, dealing Magic Damage equal to 260 (+50% Total Magic Power) plus 4% of the enemy's Max HP to nearby enemies, and increasing Astral Sphere's slow effect to 2.5 times the original slow effect. 8.060"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Astral Recall",
+      "description": "Astral RecallAbilityBurst BUFF Novaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall will increase the Movement Speed bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5s. The sphere will explode when hitting an enemy hero, dealing Magic Damage equal to 260 (+50% Total Magic Power) plus 4% of the target's Max HP. The damage will increase based on the Astral Sphere's travel distance (starting from when the sphere is summoned), up to 2.5 times the original damage. 8.0120"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Astral Echo",
+      "description": "Astral EchoAbilityBUFF Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% while applying Astral Ring on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 8s. 45.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Hylos",
+    "role": "Unknown",
+    "slug": "hylos",
+    "image_url": "https://liquipedia.net/commons/images/thumb/6/68/ML_icon_Hylos.png/20px-ML_icon_Hylos.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/6/68/ML_icon_Hylos.png/20px-ML_icon_Hylos.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Thickened Blood Ability TypeBuff Hylos gains 1.5 extra Max HP for every 1 extra Max Mana he possesses. When out of Mana, Hylos can use his HP for skill casts."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Law and Order Ability TypeCC DamageMagic Base Cooldown: 12.0 Base Mana Cost: 80 Hylos gains 50% Movement Speed and causes his next Basic Attack within 3s to deal 300 (+80%Total Magic Power) Magic Damage to the target, and knock back and stun them for 1s. This damage counts as Skill Damage. The extra Movement Speed rapidly decays over the duration and ends after the next Basic Attack."
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Ring of Punishment Ability TypeAOE Debuff DamageMagic Base Cooldown: 1.0 Base Mana Cost: 30 Hylos releases the Ring of Punishment, dealing 100 (+20%Total Magic Power) Magic Damage to nearby enemies per second while slowing them by 4% and reducing their Attack Speed by 7.5% for 2.5s (up to 8 stacks). Each stack also increases the enemy's damage taken from the Ring of Punishment by 5%. The Ring of Punishment consumes 30 Mana per second when it's active. Use Again: Hylos cancels the Ring of Punishment"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Glorious Pathway Ability TypeSpeed Up Heal Base Cooldown: 40.0 Base Mana Cost: 150 Hylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1s. The pathway lasts 6s. When on the pathway, Hylos gains Slow Immunity and recovers 3% of his Max HP per second. Allied heroes moving along the pathway gain 60% extra Movement Speed, while enemy heroes on the pathway will be slowed by 25%."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

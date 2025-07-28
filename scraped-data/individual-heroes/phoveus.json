@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Phoveus",
+    "role": "Unknown",
+    "slug": "phoveus",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/b1/ML_icon_Phoveus_2024.png/20px-ML_icon_Phoveus_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/b1/ML_icon_Phoveus_2024.png/20px-ML_icon_Phoveus_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Demonic Intuition",
+      "description": "Demonic IntuitionAbilityBUFF Phoveus' weapon, Astaros, holds mysterious powers and is exceptionally sensitive to fast-moving prey. When an enemy hero uses Blink or Charge skills within 8 yards of Astaros, it reduces all of Phoveus' skill cooldowns or charge times by 1s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Malefic Terror",
+      "description": "Malefic TerrorAbilityAoE ShieldTypeMagic Basic ATK Phoveus smashes the ground and unleashes Astaros Dread, dealing 250 (+100% Total Magic Power) Magic Damage to the target. Upon hitting an enemy hero, Phoveus receives a 0 (+60% Total Magic Power) (+6% Total HP) Shield as well as a 25% Movement Speed boost for 3s. If an enemy hero, creep or Phoveus himself touches Astaros Dread, it will spread and deal extra damage (successive damage dealt to the same enemy decays to 25%). This skill gains 1 charge every 8.5s, up to 3 charges, and deals 160% damage to minions. 2.540"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Astaros Eye",
+      "description": "Astaros EyeAbilityCC AoETypeMagic Skill Phoveus summons forth Astaros Eye in a targeted area that deals 100 (+20% Total Magic Power) damage. After 1s, Astaros Eye starts shrinking and pulling all enemies on it into its center, dealing 250 (+70% Total Magic Power) Magic Damage. 13.5100"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Demonic Force",
+      "description": "Demonic ForceAbilityBlink BurstTypeMagic Skill/Blink Astaros keeps a watchful gaze over an area of 8 yards around Phoveus. If it sees an enemy hero using blink or charge skills, it will be activated and cast a Mark upon them for 3s. During this time, Phoveus can rapidly blink to their location to deliver a fierce blow, dealing 600 (+180% Total Magic Power) Magic Damage to the target and its vicinity and gaining a 160 (+50% Total Magic Power) (+5% Total HP) Shield. Once Phoveus activates this effect, this skill can be cast repeatedly at the cost of Mana for up to 12s before entering cooldown, as long as the required conditions are met. 50.070"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "MLBB Tools - Mobile Legends Dashboard & Blog Platform",
-  description: "Comprehensive Mobile Legends: Bang Bang platform with admin dashboard and blog for guides, strategies, and community content.",
+  description: "Comprehensive Mobile Legends: Bang Bang platform with dashboard and blog for guides, strategies, and community content.",
 };
 
 export default function RootLayout({

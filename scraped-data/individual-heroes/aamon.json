@@ -1,0 +1,39 @@
+{
+  "basic_info": {
+    "name": "Aamon",
+    "role": "Unknown",
+    "slug": "aamon",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/14/ML_icon_Aamon.png/20px-ML_icon_Aamon.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/14/ML_icon_Aamon.png/20px-ML_icon_Aamon.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ability Type",
+      "description": "Invisible Armor Ability TypeCamouflage Buff DamageMagic Aamon enters the Camouflage state each time he hits an enemy with a skill, during which he cannot be targeted, restores 25 (+15%Total Magic Power) plus 3% of his lost HP every 0.6s. and gains 60% extra Movement Speed that rapidly decays over 3s.Upon leaving the Camouflage state, Aamon immediately resets his Basic Attack's cooldown and enhances his Basic Attacks within the next 2.5s. Each enhanced Basic Attack deals 70 (+100%Total Physical Attack) (+115%Total Magic Power) Magic Damage and reduces Aamon's skill cooldowns by 0.5s. The first enhanced Basic Attack's damage is increased to 120% if Aamon leaves the Camouflage state actively. For generations, the Invisible Armor has been used as the symbol of the greatest power in House Paxley."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ability Type",
+      "description": "Soul Shards Ability TypeDamage Buff DamageMagic Base Cooldown: 7.0 Base Mana Cost: 40 Passive: Aamon charges his armor each time he casts a skill or hits an enemy with a skill or enhanced Basic Attack. At 5 charges, Aamon throws 5 shards at the target on his next attack, each shard dealing 50 (+15%Total Magic Power) Magic Damage. The shards will then scatter around the target.Active: Aamon throws a shard at a nearby enemy, dealing 175 (+60%Total Magic Power) Magic Damage"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ability Type",
+      "description": "Slayer Shards Ability TypeCamouflage Damage DamageMagic Base Cooldown: 13.0 Base Mana Cost: 50 Aamon throws a shard forward, dealing 120 (+50%Total Magic Power) Magic Damage to enemies along the way. The shard will return to Aamon after a short delay and allow him to enter the Camouflage state.If the shard hits a non-minion enemy it'll slow them by 50% for 2s and return to Aamon immediately."
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Ability Type",
+      "description": "Endless Shards Ability TypeBurst DamageMagic Base Cooldown: 55.0 Base Mana Cost: 150 Aamon throws all shards at a designated enemy and slows them by 30% for 1.5s. After a short delay, the shards will fly to the enemy's location again, each dealing 90 (+24%Total Magic Power)-150 (+40%Total Magic Power) Magic DamageThe number of shards increases with Aamon's armor charges and the shards on the ground (8-25).The damage dealt increases with the target's lost HP, to the max when the target's HP is below 30%.The same target takes less damage from subsequent attacks."
+    }
+  ],
+  "lore": {
+    "relationships": []
+  },
+  "patches": [],
+  "esports_stats": []
+}

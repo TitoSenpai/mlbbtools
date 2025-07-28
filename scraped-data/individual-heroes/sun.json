@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Sun",
+    "role": "Unknown",
+    "slug": "sun",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/8a/ML_icon_Sun_2024.png/20px-ML_icon_Sun_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/8a/ML_icon_Sun_2024.png/20px-ML_icon_Sun_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Simian God",
+      "description": "Simian GodAbilityDebuff HEAL Attacks of Sun and his Doppelgangers reduce enemies' Physical Defense by 4% on hit (up to 10 stacks). Sun recovers HP by 50% of his Doppelganger's Physical Attack each time it deals damage."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Endless Variety",
+      "description": "Endless VarietyAbilityAoETypePhysical Skill Sun hurls his Golden Staff in the target direction, dealing 200 (+40% Total Physical Attack) Physical Damage to enemies in its path. Upon hitting an enemy hero or creep or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5s and inherits 40% of Sun's attributes. Endless Variety and Swift Exchange are learned and leveled up together and share the same cooldown. 1070"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Swift Exchange",
+      "description": "Swift ExchangeAbilityBlink AoETypePhysical Skill Sun hurls his Golden Staff in the target direction, dealing 200 (+40%Total Physical Attack) Physical Damage to enemies in its path. Meanwhile, he conjures a Doppelganger that lasts 5s and inherits 40% of his attributes on the spot, conceals himself, and moves along with the Golden Staff. Sun reappears and retrieves the Golden Staff when it hits an enemy hero or reaches the maximum range. 10.070"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Clone Techniques",
+      "description": "Clone TechniquesAbilitySummon Sun summons a Doppelganger that lasts 12s and inherits 70% of his attributes. The Doppelganger takes higher damage. 36.0No one can tell what's false and what's real."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Chip",
+    "role": "Unknown",
+    "slug": "chip",
+    "image_url": "https://liquipedia.net/commons/images/thumb/3/32/ML_icon_Chip.png/20px-ML_icon_Chip.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/3/32/ML_icon_Chip.png/20px-ML_icon_Chip.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Snack Time!",
+      "description": "Snack Time!AbilityHEAL Chips starts eating potato chips when out of combat, regenerating HP equal to 150 plus 15% after finishing a whole bag (requires 5 bites). After eating a bag of chips, Chip cannot eat again for 5 seconds"
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Crash Course",
+      "description": "Crash CourseAbilityCC AoETypeMagic Damage Chip starts eating potato chips once every 2s when out of combat, regenerating HP equal to 300 plus 15% of lost HP after finishing a whole bag (requires 4 bites). After eating a bag of chips, Chip will be full and cannot eat again for 5s. (The bite count will be saved if he enters combat before finishing a whole bag.) Crash Course increases Chip's basic attack range to 3.5. 5.540"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Overtime",
+      "description": "OvertimeAbilitySpeed UpTypeMagic Damage Chip rushes forward for 2 seconds, gaining speed until he reaches 65% extra Movement Speed, after which he maintains the max speed for 2 seconds. Chip's next Basic Attack will cause him to charge at the enemy, dealing 200–300 (+30% Total Magic Power) Magic Damage and knocking them back slightly. Overtime increases Chip's basic attack range to 3.5 15.075"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Shortcut",
+      "description": "ShortcutAbilityTeleport CCTypeMagic Damage Chip drops the Main Portal on an enemy hero, dealing 200–300 (+60% Total Magic Power) Magic Damage and slowing them by 30% for 2.5 seconds. Meanwhile, he creates Connecting Portals near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The Main Portal and Connecting Portals last up to 10 seconds. Connecting Portal: Heroes can teleport from Connecting Portals to the Main Portal, or stand on the Main Portal for a period time to return to the Connecting Portal they came from. Main Portal: Deals 600–900 (+180% Total Magic Power) Magic Damage to nearby targets after a delay and knocks them airborne for 0.8 seconds. The Main Portal inherits 80% of Chip's HP. 60110"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Lancelot",
+    "role": "Unknown",
+    "slug": "lancelot",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/8a/ML_icon_Lancelot_2021.png/20px-ML_icon_Lancelot_2021.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/8a/ML_icon_Lancelot_2021.png/20px-ML_icon_Lancelot_2021.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Soul Cutter",
+      "description": "Soul CutterAbilityBUFF Each time Lancelot charges, his damage is increased by 7.5% for 4 s, up to 30%."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Puncture",
+      "description": "PunctureAbilityBlink AoETypePhysical Skill/Blink Lancelot charges in a designated direction, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies along the way and applying a Sword Mark to the first unmarked enemy hit. The Sword Mark lasts 5s. If Lancelot successfully applies a Sword Mark to an enemy, the cooldown of this skill will reset. 14.050"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Thorned Rose",
+      "description": "Thorned RoseAbilityAoE SlowTypePhysical Skill Lancelot strikes in the target direction 3 times, each time dealing 225 (+100% Extra Physical Attack) Physical Damage to enemies hit (damage is reduced when multiple enemies are hit). He's untargetable and invincible during this process. Enemies in the center of the area take all the 3 hits and are slowed by 20% for 0.5s. The Slowing Effect can stack. This skill only benefits from 40% of Lancelot's Spell Vamp. 10.0120"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Phantom Execution",
+      "description": "Phantom ExecutionAbilityBurst BlinkTypePhysical Skill/Blink After a short period of charging, Lancelot performs an executioner's strike in a forward direction, dealing 400 (+150% Total Physical Attack) Physical Damage. He is invincible throughout the process. 27.0100I become one with the sword."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

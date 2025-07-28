@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Roger",
+    "role": "Unknown",
+    "slug": "roger",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/84/ML_icon_Roger.png/20px-ML_icon_Roger.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/84/ML_icon_Roger.png/20px-ML_icon_Roger.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Full Moon Curse",
+      "description": "Full Moon CurseAbilityBUFF Roger can freely switch between human and wolf forms. In human form, Roger's Basic Attacks inflict 10% slow on hit. In wolf form, Roger's Basic Attacks deal 5% of the target's lost HP as extra damage (up to 60 against creeps)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Open Fire",
+      "description": "Human Wolf Open FireAbilityDamage DebuffTypePhysical Skill Roger fires two quick shots in the target direction, dealing 300 (+150% Total Physical Attack) Physical Damage in total to the enemy hit. The first shot is a hunter net that slows the enemy by 80% for 1.5s, while the second is a bullet that reduces the enemy's Physical Defense by 10 for 5s. 7.070One with pure heart is also hard to avoid being a Wolf. Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Skill Cost 70 80 90 100 110 120 Base Damage 300 360 420 480 540 600 Physical Penetration 10 14 18 22 26 30 Lycan PounceAbilityBlink BurstTypePhysical Skill Roger lunges at the target enemy, becoming untargetable while dealing 300 (+150% Total Physical Attack) Physical Damage to up to 3 enemies in the area. Kills or assists will reduce the cooldown of this skill by 80%. 15.0110One with pure heart is also hard to avoid being a Wolf. Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 15.0 14.4 13.8 13.2 12.6 12.0 Skill Cost 110 120 130 140 150 160 Base Damage 300 360 420 480 540 600"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Hunter's Steps",
+      "description": "Human Wolf Hunter's StepsAbilitySpeed Up Roger gains 40% extra Movement Speed for 2.5s. 10.050 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 10.0 9.6 9.2 8.8 8.4 8.0 Skill Cost 50 55 60 65 70 75 Bloodthirsty HowlAbilityBUFF Speed Up Roger lets out a howl, increasing his Attack Speed to 1.15 times for 5s. For the duration, he'll gain 50% extra Movement Speed upon spotting an enemy hero below 40% HP. 10.050 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 10.0 9.4 8.8 8.2 7.6 7.0 Skill Cost 50 55 60 65 70 75 Attack Speed Bonus 1.15 1.2 1.25 1.3 1.35 1.4"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Wolf Transformation",
+      "description": "Human Wolf Wolf TransformationAbilityMorph BlinkTypePhysical Skill/Blink Roger lunges in the target direction and turns into wolf form, dealing 200 (+100% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 90% for 0.8s. Passive: In wolf form, Roger gains 25 extra Physical & Magic Defense and 25 extra Movement Speed. 6.0 Level 1 Level 2 Level 3 Level 4 Cooldown 6.0 5.5 5.0 4.5 Base Damage 200 300 400 500 Defense Boost 25 40 55 70 Restore Human FormAbilityMorph BlinkTypePhysical Skill/Blink Roger rolls in the target direction and reverts back to human form, gaining a 200 (+200%Extra Physical Attack) shield for 1.5s. 6.0 Level 1 Level 2 Level 3 Level 4 Cooldown 6.0 5.5 5.0 4.5 Shield Effect 200 250 300 350"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

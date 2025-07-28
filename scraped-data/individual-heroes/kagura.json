@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Kagura",
+    "role": "Unknown",
+    "slug": "kagura",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/b7/ML_icon_Kagura_2021.png/20px-ML_icon_Kagura_2021.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/b7/ML_icon_Kagura_2021.png/20px-ML_icon_Kagura_2021.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Yin Yang Gathering",
+      "description": "Yin Yang GatheringAbilityShield CC Upon retrieving the Seimei Umbrella, Kagura gains a 280(+50% TotalMagic Power) shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Seimei Umbrella Open",
+      "description": "With Umbrella Without Umbrella Seimei Umbrella OpenAbilityDamage SlowTypeMagic Skill Kagura sends the Seimei Umbrella to the target location, dealing 315(+105%Total Magic Power) Magic Damage to enemies in its path and slowing them by 60% for 0.5s. The Umbrella will automatically return to Kagura when she's too far away. 5.060 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 5.0 4.7 4.4 4.1 3.8 3.5 Skill Cost 60 70 80 90 100 110 Base Damage 315 370 425 480 535 590 Seimei Umbrella OpenAbilityDamage SlowTypeMagic Skill Kagura sends the Seimei Umbrella to the target location, dealing 315(+105%Total Magic Power) Magic Damage to enemies in its path and slowing them by 60% for 0.5s. The Umbrella will automatically return to Kagura when she's too far away. 5.060 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 5.0 4.7 4.4 4.1 3.8 3.5 Skill Cost 60 70 80 90 100 110 Base Damage 315 370 425 480 535 590"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Rasho Umbrella Flee",
+      "description": "With Umbrella Without Umbrella Rasho Umbrella FleeAbilityRemove CC BlinkTypeBlink Kagura removes all debuffs on her and leaps in the target direction, while leaving the Seimei Umbrella behind. 12.055 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 12.0 11.5 11.0 10.5 10.0 9.5 Skill Cost 55 60 65 70 75 80 Rasho Umbrella FleeAbilityBlink DamageTypeMagic Skill/Blink Kagura teleports to the Seimei Umbrella's location and retrieves it, dealing 300(+90%Total Magic Power) Magic Damage to the nearby enemies. 12.055 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 12.0 11.5 11.0 10.5 10.0 9.5 Skill Cost 55 60 65 70 75 80 Base Damage 300 320 340 360 380 400"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Yin Yang Overturn",
+      "description": "With Umbrella Without Umbrella Yin Yang OverturnAbilityCC BurstTypeMagic Skill Kagura invokes the power of the Seimei Umbrella, dealing 330(+105%Total Magic Power) Magic Damage to nearby enemies, knocking them back, and slowing them by 60% for 0.5s. 43.085Don't get to close to my Seimei Umbrella. Level 1 Level 2 Level 3 Cooldown 43.0 38.0 33.0 Skill Cost 85 100 115 Base Damage 330 400 470 Yin Yang OverturnAbilityBurst CCTypeMagic Skill Kagura invokes the power of the Seimei Umbrella, resetting the cooldown of Seimei Umbrella Open, dealing 290(+70%Total Magic Power) Magic Damage to enemies around the Umbrella, and slowing them by 60%. After 1.5s, enemy heroes around the Umbrella will be pulled toward it and dealt 400(+145%Total Magic Power) Magic Damage. 43.085Don't get to close to my Seimei Umbrella. Level 1 Level 2 Level 3 Cooldown 43.0 38.0 33.0 Skill Cost 85 100 115 Base Damage 330 400 470 Extra Damage 400 500 600"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

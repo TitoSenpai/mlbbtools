@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Mathilda",
+    "role": "Unknown",
+    "slug": "mathilda",
+    "image_url": "https://liquipedia.net/commons/images/thumb/8/88/ML_icon_Mathilda.png/20px-ML_icon_Mathilda.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/8/88/ML_icon_Mathilda.png/20px-ML_icon_Mathilda.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ancestral Guidance",
+      "description": "Ancestral GuidanceAbilityDamage Speed Up Mathilda gains Ancestral Guidance while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200(+100%Total Physical Attack)(+100%Total Magic Power) Magic Damage to the target and granting her 80 extra Movement Speed that decays over 2.5s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Soul Bloom",
+      "description": "Soul BloomAbilityBurstTypeMagic Skill Mathilda resonates with the power of her ancestors for 3.5s, attracting wisps as her movement distance increases (up to 6 wisps). At the end of the duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies regardless of whether or not they're in sight (prioritizes enemy heroes), each dealing 375(+100%Total Magic Power) Magic Damage. Enemies hit by multiple wisps will take only 20% of the damage after the first hit. 7.560"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Guiding Wind",
+      "description": "Guiding WindAbility ShieldTypeBlink Mathilda leaps in the target direction and creates a field around her, gaining a 500(+180%Total Magic Power) shield and 25% extra Movement Speed for 3s. Allied heroes who come into contact with the field will receive a 60% shield and Guiding Wind. The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same Movement Speed boost. When casting this skill during Circling Eagle, Mathilda won't change her position. Guiding Wind expires 2s after the hero leaves Mathilda's field. 13.075"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Circling Eagle",
+      "description": "Circling EagleAbilityBlink ShieldTypeMagic Skill Mathilda applies a Soul Mark to the target enemy hero and circles around them for up to 3.5s, during which wisps will fly into nearby enemies, each dealing 40(+15%Total Magic Power) Magic Damage. The Soul Mark will also slow the target by 15% and Soul Bloom will prioritize target with Soul Mark. Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with Soul Mark, dealing 320 (+120%Total Magic Power) Magic Damage while knocking enemies in her path airborne for 0.6s and transferring the Soul Mark to the first enemy hero that she knocks airborne, and reducing the skill cooldown by 40% Mathilda gains Control Immunity and a 400 (+160%Total Magic Power) shield for the skill duration. 65.0150"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

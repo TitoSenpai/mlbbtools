@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Vale",
+    "role": "Unknown",
+    "slug": "vale",
+    "image_url": "https://liquipedia.net/commons/images/thumb/0/02/ML_icon_Vale.png/20px-ML_icon_Vale.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/0/02/ML_icon_Vale.png/20px-ML_icon_Vale.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Windtalk",
+      "description": "WindtalkAbilityBUFF Speed Up When Vale reaches Lv.4/6/8, he can choose to enhance one of his skills and each skill can be enhanced once only. For each enhancement, he can pick one specialization of the chosen skill. Vale gains one stack of \"Windtalk\" each time he gets a kill or an assist, increasing 8 Movement Speed. It can stack up to 10 times."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Wind Blade",
+      "description": "Normal Sorrow Scatter Wind BladeAbilityAoETypeMagic Skill Vale unleashes two wind blades toward the left and right of a designated area. Wind blades deal 250(+80%Total Magic Power) Magic Damage. When leveling up, Vale can choose to specialize into Damage Increase or Range Increase of this skill. 8.560 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.5 8.0 7.5 7.0 6.5 6.0 Skill Cost 60 65 70 75 80 85 Base Damage 250 290 330 370 410 450 Wind Blade - SorrowAbilityAoETypeMagic Skill Damage Increase: Vale unleashes two wind blades toward the left and right of a designated area. Wind blades deal 300(+100Total Magic Power) Magic Damage. 8.560 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.5 8.0 7.5 7.0 6.5 6.0 Skill Cost 60 65 70 75 80 85 Base Damage 300 350 400 450 500 550 Wind Blade - ScatterAbilityAoETypeMagic Skill Range Increase: Vale unleashes two wind blades toward the left and right of a designated area. Wind blades deal 250(+80Total Magic Power) Magic Damage. This choice also reduces skill cooldown time. 3.060 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 3.0 3.0 3.0 3.0 3.0 3.0 Base Damage 250 290 330 370 410 450"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Windblow",
+      "description": "Normal Fix Control WindblowAbilityCC AoETypeMagic Skill Vale sends a whirlwind forward. Deals 410(+80%Total Magic Power) Magic Damage and slows enemies by 40% when the whirlwind hits an enemy unit for 2s. When leveling up, Vale can choose to specialize in Stop-on-hit Effect or Knock-airborne Effect of this skill. 8.590 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.5 8.5 8.5 8.5 8.5 8.5 Base Damage 410 450 490 530 570 610 Windblow: FixAbilityCC AoETypeMagic Skill Stop-on-hit Effect: Vale summons a windstorm forward, dealing 410(+80%Total Magic Power) Magic Damage to enemies on the path and slowing them by 40% for is. When the windstorm hits enemy heroes or enemy creeps, a windstorm lasting for 2s will be left at the target location, dealing 150(+30%Total Magic Power) Magic Damage to nearby enemies continuously. 8.590 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.5 8.5 8.5 8.5 8.5 8.5 Skill Cost 90 95 100 105 110 115 Base Damage 410 450 490 530 570 610 Continuous Damage 150 165 180 195 210 225 Windblow: ControlAbilityCC AoETypeMagic Skill Knock-airborne Effect: Vale summons a windstorm forward. Deals 410(+80%Total Magic Power) points of Magic Damage when the windstorm hits an enemy unit and knocks it into the air for 1s. 8.590 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Cooldown 8.5 8.5 8.5 8.5 8.5 8.5 Skill Cost 90 95 100 105 110 115 Base Damage 410 450 490 530 570 610"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Windstorm",
+      "description": "Normal Death Gather WindstormAbilityBurstTypeMagic Skill Vale summons a windstorm in a designated area. After 1.5s, the windstorm will explode, dealing 800(+160%Total Magic Power) Magic Damage to enemies in the area. When leveling up, Vale can choose to specialize into Damage Increase or Crowd Control of this skill. 40.0150 Level 1 Level 2 Level 3 Cooldown 40.0 36.0 32.0 Skill Cost 150 200 250 Base Damage 800 1000 1200 Windstorm: DeathAbilityBurst DebuffTypeMagic Skill Damage Increase: Vale summons a windstorm in a designated area. After 1.5s, the windstorm will explode, dealing 1200(+240%Total Magic Power) Magic Damage to enemies in the area. The explosion decreases Magic Defense of enemies by 15. 40.0150 Level 1 Level 2 Level 3 Cooldown 40.0 36.0 32.0 Skill Cost 150 200 250 Base Damage 1200 1500 1800 Magic DEF Reduction 15 25 35 Windstorm: GatherAbilityAoE CCTypeMagic Skill Area Control: Vale summons a windstorm in a designated area. After 2s, the windstorm will explode, dealing 800(+160%Total Magic Power) Magic Damage to enemies in the area. The windstorm will continuously draw enemies into its eye. 40.0150 Level 1 Level 2 Level 3 Cooldown 40.0 36.0 32.0 Skill Cost 150 200 250 Base Damage 800 1000 1200"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

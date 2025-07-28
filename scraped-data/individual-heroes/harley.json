@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Harley",
+    "role": "Unknown",
+    "slug": "harley",
+    "image_url": "https://liquipedia.net/commons/images/thumb/a/aa/ML_icon_Harley.png/20px-ML_icon_Harley.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/a/aa/ML_icon_Harley.png/20px-ML_icon_Harley.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Magic Master",
+      "description": "Magic MasterAbilityDebuff Harley's mastery of magic allows his Basic Attacks to deal 60 (+50% Total Physical Attack) (+60% Total Magic Power) Magic Damage. His attacks reduce the enemy's Magic Defense by 2 for 3s on hit (up to 10 stacks)."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Poker Trick",
+      "description": "Poker TrickAbilityAoE BUFFTypeMagic Skill Harley throws 3 waves of cards in the target direction, each dealing 130 (+25% Total Magic Power) Magic Damage to the first enemy hit and granting him 10% extra Attack Speed for 3s on hit (up to 5 stacks). Enemies hit more than 3 times will take less damage from subsequent hits. 6.090"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Space Escape",
+      "description": "Space EscapeAbilityBlink Speed UpTypeBlink Harley blinks in the designated direction, leaving a magic hat at his place, increasing his Movement Speed by 30% for 2s. Use Again: Use again within 4s to return to where the hat is and lose the speed boost. 8.560"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Deadly Magic",
+      "description": "Deadly MagicAbilityBurst SlowTypeMagic Skill Harley casts a magic ring of fire at the target enemy hero (can be blocked by other heroes), dealing them 200 (+60% Total Magic Power) Magic Damage and slowing them by 40% for 1.5s. The magic ring stays around the enemy for 4s, during which Harley can hit the magic ring to damage the enemy with his skills. The magic ring will explode at the end of the duration, dealing 100 (+30% Total Magic Power) plus 50% of the enemy's damage taken within the duration as Magic Damage. 36.0120A single spark can start a prairie fire"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Luo Yi",
+    "role": "Unknown",
+    "slug": "luo-yi",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/14/ML_icon_Luo_Yi.png/20px-ML_icon_Luo_Yi.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/14/ML_icon_Luo_Yi.png/20px-ML_icon_Luo_Yi.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Duality",
+      "description": "DualityAbilityBurst CC Luo Yi's skills can create Sigils of Yin/Yang on the battlefield. Each Sigil lasts up to 6s. Sigils of opposite attributes will trigger Yin-Yang Reaction when they are within a certain distance, dealing 365 (+20 Hero Level) (+190% Total Magic Power) Magic Damage to the marked enemies, stunning them for 1s, and pulling them toward each other. Each time Luo Yi applies a new Sigil to a marked enemy, she gains a 300 (+10*Hero Level) (+150% Total Magic Power) shield (up to 3 stacks) and 30% extra Movement Speed that decays over 2s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Dispersion",
+      "description": "DispersionAbilityAoETypeMagic Skill Luo Yi casts the energy of Yin/Yang in the target direction, dealing 210 (+120% Total Magic Power) Magic Damage to the first enemy hit and those behind them in a fan-shaped area. Enemy heroes hit are marked with a Sigil of Yin/Yang. Luo Yi stores up to 4 Dispersion charges and gains 1 charge every 8s. She also immediately gains 1 charge each time Yin-Yang Reaction is triggered. The state of this skill changes on each cast. 1.250"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Rotation",
+      "description": "RotationAbilityAoE SlowTypeMagic Skill Luo Yi summons Fire of Yang/Aqua of Yin at the target location, dealing 250 (+50% Total Magic Power) Magic Damage to enemies hit and slowing them by 60% for 0.5s. Fire of Yan/Aqua of Yin then remains at the location for 6s, dealing 50 (+10% Total Magic Power) Magic Damage every 0.7s to nearby enemies. It can also trigger Yin-Yang Reaction with Sigils of opposite attributes. The state of this skill changes on each cast. 12.0120"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Diversion",
+      "description": "DiversionAbilityTeleportTypeBlink Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes (including herself) within the Circle will be teleported to the location. Passive: Luo Yi's Cooldown Reduction is increased by 6%. 50.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

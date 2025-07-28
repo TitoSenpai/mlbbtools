@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Helcurt",
+    "role": "Unknown",
+    "slug": "helcurt",
+    "image_url": "https://liquipedia.net/commons/images/thumb/b/bc/ML_icon_Helcurt_2024.png/20px-ML_icon_Helcurt_2024.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/b/bc/ML_icon_Helcurt_2024.png/20px-ML_icon_Helcurt_2024.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Race Advantage",
+      "description": "Race AdvantageAbilityCC Enemy heroes who inflict control effects on Helcurt will be silenced for 1.5s. Cooldown: 4s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Shadow Transition",
+      "description": "Shadow TransitionAbilityBlink SlowTypePhysical Skill/Blink Helcurt blinks to the target location, dealing 150(+70%Total Physical Attack) Physical Damage to enemies hit and slowing them by 90% (decays over 1.5s). Hitting an enemy hero or creep with this skill grants Helcurt 1 Deadly Stinger. Dark Night Falls: Enemies hit are also silenced for 1.5s. 10.060"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Deadly Stinger",
+      "description": "Deadly StingerAbilityBurst SlowTypePhysical Skill Helcurt fires all Deadly Stingers in the target direction, each stinger dealing 180(+80%Extra Physical Attack) Physical Damage to enemies hit (only 70% damage against minions and creeps) and slowing them by 8% (can stack) for 3s. The Stingers are viewed as Basic Attacks, can trigger attack effects, but cannot critically strike. Passive: Helcurt gains 1 Deadly Stinger on each Basic Attack (up to 5). The number of Stingers will begin to drop after 8s. 4.070"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Dark Night Falls",
+      "description": "Dark Night FallsAbilityBUFF Debuff Helcurt summons the Dark Night, greatly reducing all enemy heroes' sight range for 3.5s. He also gains 10% extra Attack Speed and 65% extra Movement Speed for 8s and 1 Deadly Stinger. The number of Stingers won't drop during the night. Dark Night Falls has no effect on enemy Helcurt. Passive: Helcurt's Attack Speed is increased by 10%. 60.0120"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

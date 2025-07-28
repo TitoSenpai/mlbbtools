@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Hanabi",
+    "role": "Unknown",
+    "slug": "hanabi",
+    "image_url": "https://liquipedia.net/commons/images/thumb/1/1c/ML_icon_Hanabi_2022.png/20px-ML_icon_Hanabi_2022.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/1/1c/ML_icon_Hanabi_2022.png/20px-ML_icon_Hanabi_2022.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Ninjutsu: Equinox",
+      "description": "Ninjutsu: EquinoxAbilityShield BUFF When Hanabi is at full HP, 60% of incoming HP that would have been granted from Lifesteal is converted into a shield for up to 25% of her Max HP. When the shield is active, Hanabi is immune to all controls and her Movement Speed is increased by 30."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Ninjutsu: Petal Barrage",
+      "description": "Ninjutsu: Petal BarrageAbilityAoE BUFFTypePhysical Skill Passive: Hanabi permanently gains 8% Physical Lifesteal. Active: While active, for each Basic Attack hit, Hanabi generates a new petal blade that bounces between nearby enemies, each bounce dealing (+40% Total Physical Attack) Physical damage for up to 3 times (Damage reduced by 25% after each bounce). 0.016"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Ninjutsu: Soul Scroll",
+      "description": "Ninjutsu: Soul ScrollAbilityDamage BUFFTypePhysical Skill Hanabi fires the energy scroll in the targeted direction, dealing 450(+80%Total Physical Attack) Physical Damage to enemies along the way and slowing them by 50% for 2s. For each target hit, Hanabi regens 140 Mana. If multiple enemies are hit, the Mana restored from the subsequent enemies will decay. 8.035"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Forbidden Jutsu: Higanbana",
+      "description": "Forbidden Jutsu: HiganbanaAbilityCC AoETypePhysical Skill Hanabi throws Higanbana in the targeted direction and Higanbana will fully bloom upon hitting a target, inflicting 600 (+100% Total Physical Attack) Physical Damage and immobilizing it for 2s. This effect will spread to enemies nearby and each enemy nearby will only be effected once. If the enemy still remains within the range of Higanbana, another Higanbana will bloom, causing the same amount of damage and immobilization effect again. 40.0120A sprout without flower. A blossom without leaves."
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

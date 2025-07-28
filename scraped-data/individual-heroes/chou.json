@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Chou",
+    "role": "Unknown",
+    "slug": "chou",
+    "image_url": "https://liquipedia.net/commons/images/thumb/7/7f/ML_icon_Chou.png/20px-ML_icon_Chou.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/7/7f/ML_icon_Chou.png/20px-ML_icon_Chou.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Only Fast",
+      "description": "Only FastAbilityBUFF After traveling 8 units, Chou deals 180% damage on his next Basic Attack (cannot critically strike) and briefly slows the target by 80%."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Jeet Kune Do",
+      "description": "Jeet Kune DoAbilityAoE BlinkTypePhysical Skill/Blink Chou strikes in the target direction, dealing 180(+70%Total Physical Attack) Physical Damage to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo. 11.0It only takes three seconds to defeat you. One! Two! Three!"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Shunpo",
+      "description": "ShunpoAbilityBlink BUFFTypeBlink Chou dashes in the target direction, gaining Control Immunity during the dash and 15 Physical Penetration and a 200(+200%Extra Physical Attack) shield for 2s afterward. 5.0"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "The Way of Dragon",
+      "description": "The Way of DragonAbilityCC BurstTypePhysical Skill Chou strikes a roundhouse kick at the target enemy hero, dealing them 400(+200%Extra Physical Attack) Physical Damage and knocking them back. Use Again: Chou launches a flurry of blows on the enemy in mid-air, dealing at least 400(+200%Extra Physical Attack) Physical Damage. 34.0"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}

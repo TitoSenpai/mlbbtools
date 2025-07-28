@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "name": "Cyclops",
+    "role": "Unknown",
+    "slug": "cyclops",
+    "image_url": "https://liquipedia.net/commons/images/thumb/7/75/ML_icon_Cyclops.png/20px-ML_icon_Cyclops.png",
+    "thumbnail_url": "https://liquipedia.net/commons/images/thumb/7/75/ML_icon_Cyclops.png/20px-ML_icon_Cyclops.png"
+  },
+  "stats": {
+    "level": 1
+  },
+  "abilities": [
+    {
+      "ability_type": "Passive",
+      "name": "Starlit Hourglass",
+      "description": "Starlit HourglassAbilityBUFF Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s."
+    },
+    {
+      "ability_type": "Skill1",
+      "name": "Stardust Shock",
+      "description": "Stardust ShockAbilityAoETypeMagic Skill Cyclops casts two Stardust Disks in the target direction, each dealing 275(+60% Total Magic Power) Magic Damage to enemies in its path. 8.550"
+    },
+    {
+      "ability_type": "Skill2",
+      "name": "Planets Attack",
+      "description": "Planets AttackAbilityBurstTypeMagic Skill Cyclops conjures Starlit Spheres around himself while gaining 50% Movement Speed that decays over 2s. The spheres will automatically seek and attack nearby enemies (prioritizes enemy heroes), exploding on collision and dealing 200(+40% Total Magic Power) Magic Damage to the enemy. Enemies hit by multiple spheres will take reduced damage after the first hit. 14.060"
+    },
+    {
+      "ability_type": "Ultimate",
+      "name": "Star Power Lockdown",
+      "description": "Star Power LockdownAbilityCC DamageTypeMagic Skill Cyclops creates a Planetary Sphere and sends it after the target enemy hero or Creep, dealing 500(+120% Total Magic Power) Magic Damage and immobilizing them for 0.75-1.5s (increases with travel distance). 26.060"
+    }
+  ],
+  "lore": {},
+  "patches": [],
+  "esports_stats": []
+}
