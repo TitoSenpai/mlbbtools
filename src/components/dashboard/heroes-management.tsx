@@ -45,6 +45,21 @@ interface Hero {
   is_active: boolean
 }
 
+interface ApiHero {
+  id: number
+  name: string
+  role: string
+  image_url?: string
+  created_at: string
+  abilities?: Array<{
+    id: number
+    hero_id: number
+    ability_type: string
+    name: string
+    description: string
+  }>
+}
+
 const roleIcons = {
   'Assassin': Sword,
   'Tank': Shield,
@@ -89,14 +104,27 @@ export function HeroesManagement() {
   const fetchHeroes = async () => {
     try {
       setLoading(true)
-      const response = await fetch('/api/mlbb?action=get-heroes')
-      const data = await response.json() as { success: boolean; data: Hero[]; error?: string }
+      const response = await fetch('/api/heroes')
       
-      if (data.success) {
-        setHeroes(data.data)
-      } else {
-        console.error('Failed to fetch heroes:', data.error)
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
       }
+      
+      const heroesData = await response.json() as ApiHero[]
+      
+      // Transform the data to match the expected Hero interface
+      const transformedHeroes = heroesData.map((hero: ApiHero) => ({
+        id: hero.id,
+        name: hero.name,
+        role: hero.role,
+        difficulty: 5, // Default difficulty since not available in current schema
+        win_rate: 50, // Default win rate
+        pick_rate: 10, // Default pick rate  
+        ban_rate: 5, // Default ban rate
+        is_active: true // Default to active
+      }))
+      
+      setHeroes(transformedHeroes)
     } catch (error) {
       console.error('Error fetching heroes:', error)
     } finally {
