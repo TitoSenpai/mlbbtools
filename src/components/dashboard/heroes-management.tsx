@@ -81,6 +81,7 @@ const roleColors = {
 export function HeroesManagement() {
   const [heroes, setHeroes] = useState<Hero[]>([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
   const [searchTerm, setSearchTerm] = useState("")
   const [selectedRole, setSelectedRole] = useState<string>("all")
   const [isDialogOpen, setIsDialogOpen] = useState(false)
@@ -104,10 +105,12 @@ export function HeroesManagement() {
   const fetchHeroes = async () => {
     try {
       setLoading(true)
+      setError(null)
       const response = await fetch('/api/heroes')
       
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`)
+        const errorText = await response.text()
+        throw new Error(`Failed to fetch heroes (${response.status}): ${errorText}`)
       }
       
       const heroesData = await response.json() as ApiHero[]
@@ -126,7 +129,9 @@ export function HeroesManagement() {
       
       setHeroes(transformedHeroes)
     } catch (error) {
+      const errorMessage = error instanceof Error ? error.message : 'Unknown error occurred'
       console.error('Error fetching heroes:', error)
+      setError(errorMessage)
     } finally {
       setLoading(false)
     }
@@ -475,6 +480,14 @@ export function HeroesManagement() {
 
           {loading ? (
             <div className="text-center py-8">Loading heroes...</div>
+          ) : error ? (
+            <div className="text-center py-8">
+              <div className="text-red-600 mb-4">Failed to load heroes</div>
+              <div className="text-sm text-gray-600 mb-4">{error}</div>
+              <Button onClick={fetchHeroes} variant="outline">
+                Try Again
+              </Button>
+            </div>
           ) : (
             <Table>
               <TableHeader>

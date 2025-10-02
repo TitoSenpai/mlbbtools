@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server'
+import { allMLBBHeroes } from '@/data/heroes-data'
 
 // Cloudflare D1 Database Interface
 interface CloudflareEnv {
@@ -29,6 +30,61 @@ export async function GET() {
     // Check if we're in Cloudflare Workers environment
     const isCloudflareWorkers = !!process.env.CF_WORKERS_RUNTIME
     
+    // For local development, return mock data
+    if (process.env.NODE_ENV === 'development' && !isCloudflareWorkers) {
+      // Return heroes from our complete dataset for development
+      const devHeroes = allMLBBHeroes.slice(0, 20).map((hero, index) => ({
+        id: index + 1,
+        name: hero.name,
+        role: hero.role,
+        image_url: `/heroes/${hero.name.toLowerCase().replace(/\s+/g, '-')}.jpg`,
+        created_at: new Date().toISOString(),
+        abilities: [
+          {
+            id: index * 4 + 1,
+            hero_id: index + 1,
+            ability_type: 'Passive',
+            name: `${hero.name} Passive`,
+            description: `${hero.name}'s passive ability provides unique advantages in battle.`,
+            created_at: new Date().toISOString()
+          },
+          {
+            id: index * 4 + 2,
+            hero_id: index + 1,
+            ability_type: 'Skill1',
+            name: `${hero.name} Skill 1`,
+            description: `${hero.name}'s first active skill.`,
+            cooldown: '8s',
+            mana_cost: '60',
+            created_at: new Date().toISOString()
+          },
+          {
+            id: index * 4 + 3,
+            hero_id: index + 1,
+            ability_type: 'Skill2',
+            name: `${hero.name} Skill 2`,
+            description: `${hero.name}'s second active skill.`,
+            cooldown: '12s',
+            mana_cost: '80',
+            created_at: new Date().toISOString()
+          },
+          {
+            id: index * 4 + 4,
+            hero_id: index + 1,
+            ability_type: 'Ultimate',
+            name: `${hero.name} Ultimate`,
+            description: `${hero.name}'s ultimate ability - devastating and game-changing.`,
+            cooldown: '45s',
+            mana_cost: '120',
+            created_at: new Date().toISOString()
+          }
+        ]
+      }))
+      
+      return NextResponse.json(devHeroes)
+    }
+
+    // Production/Cloudflare environment
     // In Next.js on Cloudflare Pages, D1 bindings are available through process.env
     const env = process.env as unknown as CloudflareEnv
     
